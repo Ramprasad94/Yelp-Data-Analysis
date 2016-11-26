@@ -3,9 +3,13 @@ Repository containing the code for search final project
 
 #Task 2 Steps: 
 
+Done:
+
 1) Make a data table : of the following pattern :  [business , reviews, number of reviews, rating]
 
 2) Split the data 70-30 . 
+
+Pending:
 
 3)Using nltk, scikit learn train data. 
 
