@@ -1,4 +1,4 @@
-//package org.yelp;
+package org.yelp;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
@@ -29,8 +29,8 @@ public class GenerateIndex {
 	public static void main(String args[]) {
 
 		// data files
-		String reviewsFile = "E:\\Search Final Project\\temp_review_data.csv";
-		String tipsFile = "E:\\Search Final Project\\temp_tip_data.csv";
+		String reviewsFile = "../temp_review_data.csv";
+		String tipsFile = "../temp_tip_data.csv";
 
 		try {
 
@@ -40,12 +40,13 @@ public class GenerateIndex {
 			Map<String, ArrayList<String>> reviewsCollection = buildReviewsAndTipsList(reviewsFile);
 			Map<String, ArrayList<String>> tipsCollection = buildTipsList(tipsFile);
 
+			System.out.println(reviewsCollection.keySet());
 			// Generate index
-			//indexGeneration(reviewsCollection, tipsCollection);
+			indexGeneration(reviewsCollection, tipsCollection);
 
 		} catch (Exception e) {
 			e.printStackTrace();
-		} 
+		}
 
 	}
 
@@ -61,7 +62,6 @@ public class GenerateIndex {
 	 */
 	public static Map<String, ArrayList<String>> buildReviewsAndTipsList(String dataset) throws IOException {
 
-		
 		Map<String, ArrayList<String>> textCollection = new HashMap<String, ArrayList<String>>();
 
 		try {
@@ -69,37 +69,38 @@ public class GenerateIndex {
 			// Read data file
 			CSVReader reader = new CSVReader(new FileReader(dataset));
 			String[] reviewData;
-			while((reviewData = reader.readNext())!= null){
+			while ((reviewData = reader.readNext()) != null) {
 				ArrayList<String> reviewListPerBusiness = null;
 				String businessID = reviewData[4];
-				if(textCollection.get(businessID) != null){
-				reviewListPerBusiness = textCollection.get(businessID);
-				reviewListPerBusiness.add(reviewData[3]);	
-				}
-				else{
+				if (textCollection.get(businessID) != null) {
+					reviewListPerBusiness = textCollection.get(businessID);
+					reviewListPerBusiness.add(reviewData[3]);
+				} else {
 					reviewListPerBusiness = new ArrayList<String>();
-					reviewListPerBusiness.add(reviewData[3]);	
-					textCollection.put(businessID,reviewListPerBusiness);
-					
-					}
+					reviewListPerBusiness.add(reviewData[3]);
+					textCollection.put(businessID, reviewListPerBusiness);
+
+				}
 			}
-			System.out.println("SIZE OF REVIEW COLLECTION:"+textCollection.size());
+			System.out.println("SIZE OF REVIEW COLLECTION:" + textCollection.size());
 			int count = 0;
-			for(Map.Entry<String, ArrayList<String>> entry : textCollection.entrySet()){
+			for (Map.Entry<String, ArrayList<String>> entry : textCollection.entrySet()) {
 				String key = entry.getKey();
-				System.out.println("Key = "+key);
+				// System.out.println("Key = "+key);
 				ArrayList<String> value = entry.getValue();
-				System.out.println("Values:");
-				for(String iter : value){
-					System.out.println("-->"+iter);
+				// System.out.println("Values:");
+				for (String iter : value) {
+					// System.out.println("-->"+iter);
 					count++;
 				}
-				System.out.println("********************************");
-				
+				// System.out.println("********************************");
+
 			}
-			System.out.println("Final count = "+ count);
-			System.out.println("----------------------------------------------------------END OF REVIEW TEXT PARSING----------------------------------------------");
-			
+			System.out.println("Final count = " + count);
+			// System.out.println("----------------------------------------------------------END
+			// OF REVIEW TEXT
+			// PARSING----------------------------------------------");
+
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		} catch (IOException e) {
@@ -112,49 +113,46 @@ public class GenerateIndex {
 
 	public static Map<String, ArrayList<String>> buildTipsList(String dataset) throws IOException {
 
-		
 		Map<String, ArrayList<String>> textCollection = new HashMap<String, ArrayList<String>>();
 
 		try {
 
 			// Read data file
 			CSVReader reader = new CSVReader(new FileReader(dataset));
-			
+
 			String[] tipData;
-			while((tipData = reader.readNext())!= null){
+			while ((tipData = reader.readNext()) != null) {
 				ArrayList<String> tipListPerBusiness = null;
 				String businessID = tipData[2];
 				String tipText = tipData[1];
-				if(textCollection.get(businessID) != null){
-				tipListPerBusiness = textCollection.get(businessID);
-				tipListPerBusiness.add(tipData[1]);	
-				}
-				else{
+				if (textCollection.get(businessID) != null) {
+					tipListPerBusiness = textCollection.get(businessID);
+					tipListPerBusiness.add(tipData[1]);
+				} else {
 					tipListPerBusiness = new ArrayList<String>();
-					tipListPerBusiness.add(tipData[1]);	
-					textCollection.put(businessID,tipListPerBusiness);
-					
-					}
-			
+					tipListPerBusiness.add(tipData[1]);
+					textCollection.put(businessID, tipListPerBusiness);
+
+				}
+
 			}
-		
-			System.out.println("SIZE OF TIP COLLECTION:"+textCollection.size());
+
+			System.out.println("SIZE OF TIP COLLECTION:" + textCollection.size());
 			int count = 0;
-			for(Map.Entry<String, ArrayList<String>> entry : textCollection.entrySet()){
+			for (Map.Entry<String, ArrayList<String>> entry : textCollection.entrySet()) {
 				String key = entry.getKey();
-				System.out.println("Key = "+key);
+				// System.out.println("Key = "+key);
 				ArrayList<String> value = entry.getValue();
-				System.out.println("Values:");
-				for(String iter : value){
-					System.out.println("-->"+iter);
+				// System.out.println("Values:");
+				for (String iter : value) {
+					// System.out.println("-->"+iter);
 					count++;
 				}
-				System.out.println("********************************");
-				
+				// System.out.println("********************************");
+
 			}
-			System.out.println("Final count = "+ count);
-		
-		
+			System.out.println("Final count = " + count);
+
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		} catch (IOException e) {
@@ -164,11 +162,11 @@ public class GenerateIndex {
 		return textCollection;
 
 	}
-	
+
 	public static void indexGeneration(Map<String, ArrayList<String>> reviewsCollection,
 			Map<String, ArrayList<String>> tipsCollection) throws IOException {
 
-		String indexPath = "E:\\Search Final Project\\Indexes";
+		String indexPath = "indexes";
 
 		Directory dir = FSDirectory.open(Paths.get(indexPath));
 
@@ -186,21 +184,30 @@ public class GenerateIndex {
 		uniqueBusinesses.addAll(businessesList);
 		businessesList.clear();
 		businessesList.addAll(uniqueBusinesses);
+		
+		// List all businesses list
+		//System.out.println(businessesList);
 
 		// build lucene documents using reviews and tips
 		for (String businessId : businessesList) {
 
-			System.out.println("Business ID = "+businessId);
+			// System.out.println("Business ID = "+businessId);
 			Document doc = new Document();
 
 			// Add all the reviews in the document for that business
-			for (String review : reviewsCollection.get(businessId)) {
-				doc.add(new StringField("Review", review, Field.Store.YES));
+			if (reviewsCollection.containsKey(businessId)) {
+
+				for (String review : reviewsCollection.get(businessId)) {
+					doc.add(new StringField("Review", review, Field.Store.YES));
+				}
 			}
 
-			// Add all the reviews in the document for that business
-			for (String review : tipsCollection.get(businessId)) {
-				doc.add(new StringField("Tip", review, Field.Store.YES));
+			// Add all the tips in the document for that business
+			if (tipsCollection.containsKey(businessId)) {
+				for (String review : tipsCollection.get(businessId)) {
+					doc.add(new StringField("Tip", review, Field.Store.YES));
+				}
+
 			}
 
 			writer.addDocument(doc);
