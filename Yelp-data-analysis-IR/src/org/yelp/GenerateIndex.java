@@ -29,8 +29,8 @@ public class GenerateIndex {
 	public static void main(String args[]) {
 
 		// data files
-		String reviewsFile = "../temp_review_data.csv";
-		String tipsFile = "../temp_tip_data.csv";
+		String reviewsFile = "../ReviewData.csv";
+		String tipsFile = "../TipData.csv";
 
 		try {
 
@@ -69,18 +69,24 @@ public class GenerateIndex {
 			// Read data file
 			CSVReader reader = new CSVReader(new FileReader(dataset));
 			String[] reviewData;
+			int i = 0;
 			while ((reviewData = reader.readNext()) != null) {
-				ArrayList<String> reviewListPerBusiness = null;
-				String businessID = reviewData[4];
-				if (textCollection.get(businessID) != null) {
-					reviewListPerBusiness = textCollection.get(businessID);
-					reviewListPerBusiness.add(reviewData[3]);
-				} else {
-					reviewListPerBusiness = new ArrayList<String>();
-					reviewListPerBusiness.add(reviewData[3]);
-					textCollection.put(businessID, reviewListPerBusiness);
+				if(reviewData.length == 8){
+					System.out.println("Processing line " + i++);
+					ArrayList<String> reviewListPerBusiness = null;
+					String businessID = reviewData[4];
+					if (textCollection.get(businessID) != null) {
+						reviewListPerBusiness = textCollection.get(businessID);
+						reviewListPerBusiness.add(reviewData[3]);
+					} else {
+						reviewListPerBusiness = new ArrayList<String>();
+						reviewListPerBusiness.add(reviewData[3]);
+						textCollection.put(businessID, reviewListPerBusiness);
 
+					}
+					
 				}
+				
 			}
 			System.out.println("SIZE OF REVIEW COLLECTION:" + textCollection.size());
 			int count = 0;
