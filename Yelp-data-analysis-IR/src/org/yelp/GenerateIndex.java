@@ -199,6 +199,7 @@ public class GenerateIndex {
 		for (String businessId : businessesList) {
 			
 			if(businessId == null){
+				System.out.println("Null business ID found");
 				continue;
 			}
 
