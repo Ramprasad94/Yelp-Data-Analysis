@@ -202,6 +202,8 @@ public class GenerateIndex {
 				System.out.println("Null business ID found");
 				continue;
 			}
+			
+			boolean isBusinessIdExist = false;
 
 			// System.out.println("Business ID = "+businessId);
 			Document doc = new Document();
@@ -211,6 +213,7 @@ public class GenerateIndex {
 
 				for (String review : reviewsCollection.get(businessId)) {
 					doc.add(new TextField("BusinessID", businessId, Field.Store.YES));
+					isBusinessIdExist = true;
 					doc.add(new TextField("Text", review, Field.Store.YES));
 				}
 			}
@@ -218,6 +221,9 @@ public class GenerateIndex {
 			// Add all the tips in the document for that business
 			if (tipsCollection.containsKey(businessId)) {
 				for (String tip : tipsCollection.get(businessId)) {
+					if(!isBusinessIdExist){
+						doc.add(new TextField("BusinessID", businessId, Field.Store.YES));
+					}
 					doc.add(new TextField("Text", tip, Field.Store.YES));
 				}
 
