@@ -16,6 +16,7 @@ import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.StringField;
+import org.apache.lucene.document.TextField;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.index.IndexWriterConfig.OpenMode;
@@ -29,8 +30,8 @@ public class GenerateIndex {
 	public static void main(String args[]) {
 
 		// data files
-		String reviewsFile = "../data/ReviewData.csv";
-		String tipsFile = "../data/TipData.csv";
+		String reviewsFile = "E:/Search Final Project/ReviewData100k.csv";
+		String tipsFile = "E:/Search Final Project/TipData100k.csv";
 
 		try {
 
@@ -40,7 +41,7 @@ public class GenerateIndex {
 			Map<String, ArrayList<String>> reviewsCollection = buildReviewsAndTipsList(reviewsFile);
 			Map<String, ArrayList<String>> tipsCollection = buildTipsList(tipsFile);
 
-			System.out.println(reviewsCollection.keySet());
+			//System.out.println(reviewsCollection.keySet());
 			// Generate index
 			indexGeneration(reviewsCollection, tipsCollection);
 
@@ -204,14 +205,15 @@ public class GenerateIndex {
 			if (reviewsCollection.containsKey(businessId)) {
 
 				for (String review : reviewsCollection.get(businessId)) {
-					doc.add(new StringField("Review", review, Field.Store.YES));
+					doc.add(new TextField("BusinessID", businessId, Field.Store.YES));
+					doc.add(new TextField("Review", review, Field.Store.YES));
 				}
 			}
 
 			// Add all the tips in the document for that business
 			if (tipsCollection.containsKey(businessId)) {
 				for (String review : tipsCollection.get(businessId)) {
-					doc.add(new StringField("Tip", review, Field.Store.YES));
+					doc.add(new TextField("Tip", review, Field.Store.YES));
 				}
 
 			}
