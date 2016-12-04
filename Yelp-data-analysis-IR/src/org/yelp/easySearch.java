@@ -38,8 +38,8 @@ public class easySearch {
 		
 		// Get document frequency
 		int df=reader.docFreq(t);
-		System.out.println("\nNumber of documents containing the term: "+t.text()+" for field \"Review\": "+df);
-		System.out.println();
+		//System.out.println("\nNumber of documents containing the term: "+t.text()+" for field \"Text\": "+df);
+		//System.out.println();
 		
 		//calculating IDF
 		
@@ -66,7 +66,7 @@ public class easySearch {
 			
 			// Get frequency of the term "police" from its postings
 			PostingsEnum de = MultiFields.getTermDocsEnum(leafContext.reader(),
-							"Review", new BytesRef(t.text()));
+							"Text", new BytesRef(t.text()));
 			
 					int doc;
 					if (de != null) {
@@ -78,7 +78,7 @@ public class easySearch {
 							// Get normalized length (1/sqrt(numOfTokens)) of the document
 							
 							float normDocLeng = dSimi.decodeNormValue(leafContext.reader()
-									.getNormValues("Review").get(doc));
+									.getNormValues("Text").get(doc));
 						
 						//	float docLeng = 1 / (normDocLeng * normDocLeng);
 						
@@ -126,7 +126,7 @@ public class easySearch {
 		IndexSearcher searcher = new IndexSearcher(reader);
 
 		Analyzer analyzer = new StandardAnalyzer();
-		QueryParser parser = new QueryParser("Review", analyzer);
+		QueryParser parser = new QueryParser("Text", analyzer);
 		Query query = parser.parse(queryString);
 		Set<Term> queryTerms = new LinkedHashSet<Term>();
 		searcher.createNormalizedWeight(query, false).extractTerms(queryTerms);
