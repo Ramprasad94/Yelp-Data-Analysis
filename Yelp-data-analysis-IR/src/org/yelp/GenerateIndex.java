@@ -22,14 +22,15 @@ import org.apache.lucene.index.IndexWriterConfig.OpenMode;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.document.Field;
+import com.opencsv.CSVReader;
 
 public class GenerateIndex {
 
 	public static void main(String args[]) {
 
 		// data files
-		String reviewsFile = "temp.csv";
-		String tipsFile = "temp.csv";
+		String reviewsFile = "../data/ReviewData.csv";
+		String tipsFile = "../data/TipData.csv";
 
 		try {
 
@@ -37,69 +38,131 @@ public class GenerateIndex {
 			// Key: Business IDs
 			// values: Reviews/Tips for all business IDs
 			Map<String, ArrayList<String>> reviewsCollection = buildReviewsAndTipsList(reviewsFile);
-			Map<String, ArrayList<String>> tipsCollection = buildReviewsAndTipsList(tipsFile);
+			Map<String, ArrayList<String>> tipsCollection = buildTipsList(tipsFile);
 
+			System.out.println(reviewsCollection.keySet());
 			// Generate index
 			indexGeneration(reviewsCollection, tipsCollection);
 
 		} catch (Exception e) {
 			e.printStackTrace();
-		} 
+		}
 
 	}
 
+	/**
+	 * @param dataset
+	 * @return
+	 * @throws IOException
+	 */
+	/**
+	 * @param dataset
+	 * @return
+	 * @throws IOException
+	 */
 	public static Map<String, ArrayList<String>> buildReviewsAndTipsList(String dataset) throws IOException {
-
-		BufferedReader br = null;
-		String line = "";
-		String delim = ",";
 
 		Map<String, ArrayList<String>> textCollection = new HashMap<String, ArrayList<String>>();
 
 		try {
 
 			// Read data file
-			br = new BufferedReader(new FileReader(dataset));
+			CSVReader reader = new CSVReader(new FileReader(dataset));
+			String[] reviewData;
+			int i = 0;
+			while ((reviewData = reader.readNext()) != null) {
+				if(reviewData.length == 8){
+					System.out.println("Processing line " + i++);
+					ArrayList<String> reviewListPerBusiness = null;
+					String businessID = reviewData[4];
+					if (textCollection.get(businessID) != null) {
+						reviewListPerBusiness = textCollection.get(businessID);
+						reviewListPerBusiness.add(reviewData[3]);
+					} else {
+						reviewListPerBusiness = new ArrayList<String>();
+						reviewListPerBusiness.add(reviewData[3]);
+						textCollection.put(businessID, reviewListPerBusiness);
 
-			// Read each line and extract reviews
-			while ((line = br.readLine()) != null) {
-
-				String[] reviewData = line.split(delim);
-
-				// Extract business ID
-				String businessId = reviewData[1];
-
-				// Extract reviews from each line
-				String reviewText = reviewData[4];
-
-				// If there are multiple reviews for each business, append all
-				// reviews in the list
-				ArrayList<String> reviewsListPerBusiness = null;
-				if (textCollection.get(businessId) != null) {
-					reviewsListPerBusiness = textCollection.get(businessId);
-				} else {
-					reviewsListPerBusiness = new ArrayList<String>();
+					}
+					
 				}
-
-				reviewsListPerBusiness.add(reviewText);
-
-				// Add reviews list into map
-				textCollection.put(businessId, reviewsListPerBusiness);
+				
+			}
+			System.out.println("SIZE OF REVIEW COLLECTION:" + textCollection.size());
+			int count = 0;
+			for (Map.Entry<String, ArrayList<String>> entry : textCollection.entrySet()) {
+				String key = entry.getKey();
+				// System.out.println("Key = "+key);
+				ArrayList<String> value = entry.getValue();
+				// System.out.println("Values:");
+				for (String iter : value) {
+					// System.out.println("-->"+iter);
+					count++;
+				}
+				// System.out.println("********************************");
 
 			}
+			System.out.println("Final count = " + count);
+			// System.out.println("----------------------------------------------------------END
+			// OF REVIEW TEXT
+			// PARSING----------------------------------------------");
 
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		} catch (IOException e) {
 			e.printStackTrace();
-		} finally {
-			if (br != null) {
-				try {
-					br.close();
-				} catch (IOException e) {
-					e.printStackTrace();
+		}
+
+		return textCollection;
+
+	}
+
+	public static Map<String, ArrayList<String>> buildTipsList(String dataset) throws IOException {
+
+		Map<String, ArrayList<String>> textCollection = new HashMap<String, ArrayList<String>>();
+
+		try {
+
+			// Read data file
+			CSVReader reader = new CSVReader(new FileReader(dataset));
+
+			String[] tipData;
+			while ((tipData = reader.readNext()) != null) {
+				ArrayList<String> tipListPerBusiness = null;
+				String businessID = tipData[2];
+				String tipText = tipData[1];
+				if (textCollection.get(businessID) != null) {
+					tipListPerBusiness = textCollection.get(businessID);
+					tipListPerBusiness.add(tipData[1]);
+				} else {
+					tipListPerBusiness = new ArrayList<String>();
+					tipListPerBusiness.add(tipData[1]);
+					textCollection.put(businessID, tipListPerBusiness);
+
 				}
+
 			}
+
+			System.out.println("SIZE OF TIP COLLECTION:" + textCollection.size());
+			int count = 0;
+			for (Map.Entry<String, ArrayList<String>> entry : textCollection.entrySet()) {
+				String key = entry.getKey();
+				// System.out.println("Key = "+key);
+				ArrayList<String> value = entry.getValue();
+				// System.out.println("Values:");
+				for (String iter : value) {
+					// System.out.println("-->"+iter);
+					count++;
+				}
+				// System.out.println("********************************");
+
+			}
+			System.out.println("Final count = " + count);
+
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
 		}
 
 		return textCollection;
@@ -127,21 +190,30 @@ public class GenerateIndex {
 		uniqueBusinesses.addAll(businessesList);
 		businessesList.clear();
 		businessesList.addAll(uniqueBusinesses);
+		
+		// List all businesses list
+		//System.out.println(businessesList);
 
 		// build lucene documents using reviews and tips
 		for (String businessId : businessesList) {
 
-			System.out.println(businessId);
+			// System.out.println("Business ID = "+businessId);
 			Document doc = new Document();
 
 			// Add all the reviews in the document for that business
-			for (String review : reviewsCollection.get(businessId)) {
-				doc.add(new StringField("Review", review, Field.Store.YES));
+			if (reviewsCollection.containsKey(businessId)) {
+
+				for (String review : reviewsCollection.get(businessId)) {
+					doc.add(new StringField("Review", review, Field.Store.YES));
+				}
 			}
 
-			// Add all the reviews in the document for that business
-			for (String review : tipsCollection.get(businessId)) {
-				doc.add(new StringField("Tip", review, Field.Store.YES));
+			// Add all the tips in the document for that business
+			if (tipsCollection.containsKey(businessId)) {
+				for (String review : tipsCollection.get(businessId)) {
+					doc.add(new StringField("Tip", review, Field.Store.YES));
+				}
+
 			}
 
 			writer.addDocument(doc);
