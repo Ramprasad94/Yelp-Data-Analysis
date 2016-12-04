@@ -1,7 +1,7 @@
 # Search-Project
 Repository containing the code for search final project
 
-#Task 2: User rating prediction from their review
+## Task 2: User rating prediction from their review
 
 ### Data preprocessing:
 - Clean data by removing stop words, punctuations, numbers
