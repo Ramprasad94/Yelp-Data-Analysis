@@ -29,8 +29,8 @@ public class GenerateIndex {
 	public static void main(String args[]) {
 
 		// data files
-		String reviewsFile = "../ReviewData.csv";
-		String tipsFile = "../TipData.csv";
+		String reviewsFile = "../data/ReviewData.csv";
+		String tipsFile = "../data/TipData.csv";
 
 		try {
 
