@@ -22,9 +22,10 @@ We have used following machine learning algorithms for this task:
 - Lasso regression
 - Elasticnet regression
 - K-nearest neighbours
+- Decision trees
+- Extra trees
 - Random forest 
-- Naive bayes
-- Boosting
+- Boosting (Adaboost, gradient boosting)
 
 ### Tuning models
 - We used 20% of training data as validation set
