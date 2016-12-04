@@ -206,14 +206,14 @@ public class GenerateIndex {
 
 				for (String review : reviewsCollection.get(businessId)) {
 					doc.add(new TextField("BusinessID", businessId, Field.Store.YES));
-					doc.add(new TextField("Review", review, Field.Store.YES));
+					doc.add(new TextField("Text", review, Field.Store.YES));
 				}
 			}
 
 			// Add all the tips in the document for that business
 			if (tipsCollection.containsKey(businessId)) {
-				for (String review : tipsCollection.get(businessId)) {
-					doc.add(new TextField("Tip", review, Field.Store.YES));
+				for (String tip : tipsCollection.get(businessId)) {
+					doc.add(new TextField("Text", tip, Field.Store.YES));
 				}
 
 			}
