@@ -197,6 +197,10 @@ public class GenerateIndex {
 
 		// build lucene documents using reviews and tips
 		for (String businessId : businessesList) {
+			
+			if(businessId == null){
+				continue;
+			}
 
 			// System.out.println("Business ID = "+businessId);
 			Document doc = new Document();
