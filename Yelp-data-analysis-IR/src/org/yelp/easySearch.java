@@ -1,11 +1,17 @@
 package org.yelp;
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
 import java.io.IOException;
 import java.nio.file.Paths;
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
+import java.util.Scanner;
 import java.util.Set;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
@@ -23,14 +29,22 @@ import org.apache.lucene.search.similarities.ClassicSimilarity;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.util.BytesRef;
 
+import com.opencsv.CSVReader;
+
 
 public class easySearch {
 
-	public void computeRelevanceScores(Set<Term> queryTerms,IndexReader reader, IndexSearcher searcher) throws IOException, ParseException{
+	public void computeRelevanceScores(Set<Term> queryTerms,IndexReader reader, IndexSearcher searcher, HashMap<String, HashMap<String, Double>> businessCatMap,String category) throws IOException, ParseException{
 	
 		double relevanceScore = 0;
 		int TotalDocsInCorpus = reader.maxDoc();  //To determine the total number of documents in the corpus
-
+		Iterator<Term> itr = queryTerms.iterator();
+        System.out.println("The query terms: ");
+		while(itr.hasNext()){
+            System.out.println(itr.next());
+        }
+		
+		
 		for (Term t : queryTerms) {
 			System.out.println("\nCurrent term: "+t.text());
 		
@@ -40,7 +54,9 @@ public class easySearch {
 		int df=reader.docFreq(t);
 		//System.out.println("\nNumber of documents containing the term: "+t.text()+" for field \"Text\": "+df);
 		//System.out.println();
-		
+		if(df == 0){
+		df = 1;
+		}
 		//calculating IDF
 		
 		double idf = Math.log10(1 + (TotalDocsInCorpus/df));
@@ -92,11 +108,51 @@ public class easySearch {
 			}
 		}
 		}
-	System.out.println("\nThe relevance score for the query with respect to all documents is: ");
-	
+	//System.out.println("\nThe relevance score for the query with respect to all documents is: ");
+//	double maxValue = Integer.MIN_VALUE;
+//	String businessId = "";
 	for(Map.Entry<String, Double> me : relevanceScores.entrySet()){
-		System.out.println("Document: "+me.getKey()+","+" Relevance Score: "+me.getValue());
+//		if(me.getValue() > maxValue){
+//			maxValue = me.getValue();
+//			businessId = me.getKey();
+//		}
+		if(businessCatMap.containsKey(me.getKey())){
+			HashMap<String, Double> hm = businessCatMap.get(me.getKey());
+			hm.put(category, me.getValue());
+			
+		}
+		else{
+			HashMap<String, Double> hm = new HashMap<String,Double>();
+			hm.put(category, me.getValue());
+			businessCatMap.put(me.getKey(), hm);
+		}
+//		System.out.println("Document: "+me.getKey()+","+" Relevance Score: "+me.getValue());
 	}
+	
+	
+//	if(businessCatMap.containsKey(businessId)){
+//		HashMap<String, Double> hm = businessCatMap.get(businessId);
+//		hm.put(category, maxValue);
+//		
+//	}
+//	else{
+//		HashMap<String, Double> hm = new HashMap<String,Double>();
+//		hm.put(category, maxValue);
+//		businessCatMap.put(businessId, hm);
+//	}
+//	HashMap<String, Double> hm = new HashMap<String,Double>();
+//	hm.put(category, maxValue);
+	
+//	if(businessCatMap.containsKey(businessId)){
+//		HashMap<String, Double> hm = businessCatMap.get(businessId);
+//		hm.put(category, maxValue);
+//		
+//	}
+//	else{
+//		HashMap<String, Double> hm = new HashMap<String,Double>();
+//		hm.put(category, maxValue);
+//		businessCatMap.put(businessId, hm);
+//	}
 	
 	}
 	
@@ -119,31 +175,59 @@ public class easySearch {
 	public static void main(String args[]) throws IOException, ParseException{
 		
 		String pathToIndex = "indexes";
-		String queryString = "Italian";	//set the query string
-
-		IndexReader reader = DirectoryReader.open(FSDirectory.open(Paths
-				.get(pathToIndex)));
-		IndexSearcher searcher = new IndexSearcher(reader);
-
-		Analyzer analyzer = new StandardAnalyzer();
-		QueryParser parser = new QueryParser("Text", analyzer);
-		Query query = parser.parse(queryString);
-		Set<Term> queryTerms = new LinkedHashSet<Term>();
-		searcher.createNormalizedWeight(query, false).extractTerms(queryTerms);
+		String queryPath  = "E:/Search Final Project/categories.csv";
+		ArrayList<String> categoryString = new ArrayList<String>();
 		
-		try{
-		// Get the preprocessed query terms
-		easySearch e = new easySearch();
-		e.computeRelevanceScores(queryTerms,reader,searcher);
-		}catch(IOException e){
-			System.out.println("IO exception has occured");
-		}catch(ParseException pe){
-			System.out.println("A parse exception has occured");
+		try(BufferedReader br = new BufferedReader(new FileReader(queryPath))) {
+		    for(String line; (line = br.readLine()) != null; ) {
+		    	categoryString.add(line);
+		    }
+		    // line is not visible here.
 		}
-		reader.close();
-		}
+		
+				
+		//System.out.println(categoryString);
+		//System.out.println(categoryString.size());
+		//String queryString = "Italian";	//set the query string
+		HashMap<String, HashMap<String, Double>> businessCatMap = new HashMap<String, HashMap<String, Double>>(); 
+		for(String category: categoryString){
+			System.out.println("The category is: "+category);
+				
+			IndexReader reader = DirectoryReader.open(FSDirectory.open(Paths
+					.get(pathToIndex)));
+			IndexSearcher searcher = new IndexSearcher(reader);
 	
-}
+			Analyzer analyzer = new StandardAnalyzer();
+			QueryParser parser = new QueryParser("Text", analyzer);
+			
+			Query query = parser.parse(category);
+			Set<Term> queryTerms = new LinkedHashSet<Term>();
+			searcher.createNormalizedWeight(query, false).extractTerms(queryTerms);
+			
+			try{
+			// Get the preprocessed query terms
+			easySearch e = new easySearch();
+			e.computeRelevanceScores(queryTerms,reader,searcher, businessCatMap,category);
+			}catch(IOException e){
+				System.out.println("IO exception has occured");
+			}catch(ParseException pe){
+				System.out.println("A parse exception has occured");
+			}
+			
+			reader.close();
+		}
+		
+		for(Map.Entry<String, HashMap<String,Double>> outer : businessCatMap.entrySet()){
+			System.out.println("Business Id: " + outer.getKey());
+			System.out.println();
+			for(Map.Entry<String, Double> inner : outer.getValue().entrySet()){
+				System.out.print("Category: " + inner.getKey() + "Value  "  + inner.getValue());
+			}
+			System.out.println();
+	}
+	
+}//end of main
+	}//end of class
 	
 	
 
