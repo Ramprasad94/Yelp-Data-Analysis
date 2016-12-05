@@ -17,9 +17,13 @@ import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.StringField;
 import org.apache.lucene.document.TextField;
+import org.apache.lucene.index.DirectoryReader;
+import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.index.IndexWriterConfig.OpenMode;
+import org.apache.lucene.index.MultiFields;
+import org.apache.lucene.index.Terms;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.document.Field;
@@ -30,8 +34,8 @@ public class GenerateIndex {
 	public static void main(String args[]) {
 
 		// data files
-		String reviewsFile = "E:/Search Final Project/ReviewData100k.csv";
-		String tipsFile = "E:/Search Final Project/TipData100k.csv";
+		String reviewsFile = "../data/ReviewData100k.csv";
+		String tipsFile = "../data/TipData100k.csv";
 
 		try {
 
@@ -44,6 +48,8 @@ public class GenerateIndex {
 			//System.out.println(reviewsCollection.keySet());
 			// Generate index
 			indexGeneration(reviewsCollection, tipsCollection);
+			
+			analyseIndexes("indexes");
 
 		} catch (Exception e) {
 			e.printStackTrace();
@@ -214,7 +220,7 @@ public class GenerateIndex {
 				for (String review : reviewsCollection.get(businessId)) {
 					doc.add(new TextField("BusinessID", businessId, Field.Store.YES));
 					isBusinessIdExist = true;
-					doc.add(new TextField("Text", review, Field.Store.YES));
+					doc.add(new TextField("Text", review.toLowerCase(), Field.Store.YES));
 				}
 			}
 
@@ -224,7 +230,7 @@ public class GenerateIndex {
 					if(!isBusinessIdExist){
 						doc.add(new TextField("BusinessID", businessId, Field.Store.YES));
 					}
-					doc.add(new TextField("Text", tip, Field.Store.YES));
+					doc.add(new TextField("Text", tip.toLowerCase(), Field.Store.YES));
 				}
 
 			}
@@ -237,6 +243,47 @@ public class GenerateIndex {
 		writer.commit();
 		writer.close();
 
+	}
+	
+	public static void analyseIndexes(String indexPath) throws IOException {
+		IndexReader iReader = DirectoryReader.open(FSDirectory.open(Paths.get((indexPath))));
+
+		System.out.println("==================================================================");
+		// Print the total number of documents in the corpus
+		System.out.println("Total number of documents in the corpus: " + iReader.maxDoc());
+
+		Terms vocabulary = MultiFields.getTerms(iReader, "Text");
+
+		// Print the size of the vocabulary for <field>TEXT</field>, applicable
+		// when the index has only one segment.
+		System.out.println("Size of the vocabulary for this field: " + vocabulary.size());
+
+		// Print the total number of documents that have at least one term for
+		// <field>TEXT</field>
+		System.out
+				.println("Number of documents that have at least one term for this field: " + vocabulary.getDocCount());
+
+		// Print the total number of tokens for <field>TEXT</field>
+		System.out.println("Number of tokens for this field: " + vocabulary.getSumTotalTermFreq());
+
+		// Print the total number of postings for <field>TEXT</field>
+		System.out.println("Number of postings for this field: " + vocabulary.getSumDocFreq());
+
+		System.out.println("==================================================================");
+
+		// Print the vocabulary for <field>TEXT</field>
+		/*
+		 * TermsEnum iterator = vocabulary.iterator(); BytesRef byteRef = null;
+		 * System.out.println(
+		 * "========================Vocabulary-Start==========================")
+		 * ; int i = 0; while ((byteRef = iterator.next()) != null) { String
+		 * term = byteRef.utf8ToString(); System.out.print(term + " "); i++;
+		 * 
+		 * if (i > 10) break; } System.out.println(); System.out.println(
+		 * "========================Vocabulary-End==========================");
+		 */
+		System.out.println();
+		iReader.close();
 	}
 
 }
