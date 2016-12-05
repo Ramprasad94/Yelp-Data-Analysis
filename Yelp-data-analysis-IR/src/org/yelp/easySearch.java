@@ -2,12 +2,18 @@ package org.yelp;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.HashMap;
 import java.util.Iterator;
+import java.util.LinkedHashMap;
 import java.util.LinkedHashSet;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
@@ -30,6 +36,7 @@ import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.util.BytesRef;
 
 import com.opencsv.CSVReader;
+import com.opencsv.CSVWriter;
 
 
 public class easySearch {
@@ -220,13 +227,52 @@ public class easySearch {
 		for(Map.Entry<String, HashMap<String,Double>> outer : businessCatMap.entrySet()){
 			System.out.println("Business Id: " + outer.getKey());
 			System.out.println();
-			for(Map.Entry<String, Double> inner : outer.getValue().entrySet()){
+			HashMap<String, Double> innerMap = outer.getValue();
+			Map<String, Double> sortedMap = sortByValue(innerMap);
+			//System.out.println(sortedMap);
+			int n =0;
+			CSVWriter csvWriter= new CSVWriter(new FileWriter("C:/Users/Ramprasad/Desktop/result.csv", true));
+			ArrayList arrayList=new ArrayList<>();
+			arrayList.add(outer.getKey());
+			for(Map.Entry<String, Double> inner : sortedMap.entrySet()){
+				if(n<=2){
+				arrayList.add(inner.getKey());
 				System.out.print("Category: " + inner.getKey() + "Value  "  + inner.getValue());
+				n++;
+				}
 			}
+			Object[] a = arrayList.toArray();
+			String[] res = Arrays.copyOf( a, a.length, String[].class);
+			csvWriter.writeNext(res);
+			csvWriter.close();
 			System.out.println();
 	}
-	
+		
+		
+		
 }//end of main
+	//sort a hash map by values . 
+	public static <K, V extends Comparable<? super V>> Map<K, V> 
+    sortByValue( Map<K, V> map )
+{
+    List<Map.Entry<K, V>> list =
+        new LinkedList<>( map.entrySet() );
+    Collections.sort( list, new Comparator<Map.Entry<K, V>>()
+    {
+        @Override
+        public int compare( Map.Entry<K, V> o1, Map.Entry<K, V> o2 )
+        {
+            return -1*(( o1.getValue() ).compareTo( o2.getValue() ));
+        }
+    } );
+
+    Map<K, V> result = new LinkedHashMap<>();
+    for (Map.Entry<K, V> entry : list)
+    {
+        result.put( entry.getKey(), entry.getValue() );
+    }
+    return result;
+}
 	}//end of class
 	
 	
