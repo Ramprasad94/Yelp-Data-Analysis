@@ -15,7 +15,8 @@ Repository containing the code for search final project
 - LMJM Similarity 
 - LMD Similarity
 
-### Evaluation measure: Accuracy with penalties for missed and incorrect predictions.
+### Evaluation measure: 
+- Accuracy with penalties for missed and incorrect predictions.
 
 
 ## Task 2: User rating prediction from their review
