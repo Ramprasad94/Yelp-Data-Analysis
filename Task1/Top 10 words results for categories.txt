@@ -1,0 +1,3893 @@
+Top words in document: Probates
+
+Word:michael            
+TF-IDF:  0.11101
+Word:estate             
+TF-IDF:  0.07105
+Word:wills              
+TF-IDF:  0.05652
+Word:reconnected                
+TF-IDF:  0.0533
+Word:micheal            
+TF-IDF:  0.0533
+Word:dynamic            
+TF-IDF:  0.05195
+Word:understanding              
+TF-IDF:  0.04644
+Word:receptive          
+TF-IDF:  0.04592
+Word:tucker             
+TF-IDF:  0.04514
+Word:documents          
+TF-IDF:  0.04372
+Top words in document: Greek
+
+Word:gyros              
+TF-IDF:  0.07034
+Word:knossos            
+TF-IDF:  0.05503
+Word:errands            
+TF-IDF:  0.03058
+Word:spindly            
+TF-IDF:  0.02752
+Word:diner-esque                
+TF-IDF:  0.02752
+Word:gryos              
+TF-IDF:  0.02752
+Word:diner-like         
+TF-IDF:  0.02601
+Word:perogie            
+TF-IDF:  0.02601
+Word:lemon              
+TF-IDF:  0.02332
+Word:potomac            
+TF-IDF:  0.02238
+Top words in document: CarpetCleaning
+
+Word:adobe              
+TF-IDF:  0.02881
+Word:rugs               
+TF-IDF:  0.02717
+Word:cleaning           
+TF-IDF:  0.02422
+Word:carpet             
+TF-IDF:  0.02319
+Word:groupon            
+TF-IDF:  0.01958
+Word:spammers           
+TF-IDF:  0.01233
+Word:rug                
+TF-IDF:  0.01052
+Word:zee                
+TF-IDF:  0.0096
+Word:calling            
+TF-IDF:  0.00938
+Word:cleanings          
+TF-IDF:  0.00809
+Top words in document: Museums
+
+Word:museum             
+TF-IDF:  0.03757
+Word:exhibits           
+TF-IDF:  0.03165
+Word:exhibit            
+TF-IDF:  0.02097
+Word:science            
+TF-IDF:  0.0175
+Word:kids               
+TF-IDF:  0.01253
+Word:imax               
+TF-IDF:  0.01079
+Word:adults             
+TF-IDF:  0.00871
+Word:admission          
+TF-IDF:  0.00869
+Word:art                
+TF-IDF:  0.00855
+Word:native             
+TF-IDF:  0.00772
+Top words in document: MensHairSalons
+
+Word:haircut            
+TF-IDF:  0.06506
+Word:shave              
+TF-IDF:  0.02818
+Word:hair               
+TF-IDF:  0.02756
+Word:barber             
+TF-IDF:  0.0274
+Word:barbershop         
+TF-IDF:  0.02613
+Word:barbers            
+TF-IDF:  0.02081
+Word:v          
+TF-IDF:  0.0197
+Word:cut                
+TF-IDF:  0.0196
+Word:towel              
+TF-IDF:  0.01744
+Word:haircuts           
+TF-IDF:  0.01193
+Top words in document: PostOffices
+
+Word:pharmacy           
+TF-IDF:  0.04154
+Word:usps               
+TF-IDF:  0.03891
+Word:cvp                
+TF-IDF:  0.03261
+Word:postage            
+TF-IDF:  0.03136
+Word:post               
+TF-IDF:  0.0212
+Word:mail               
+TF-IDF:  0.01947
+Word:2:59               
+TF-IDF:  0.01945
+Word:cuffs              
+TF-IDF:  0.01707
+Word:rsvp               
+TF-IDF:  0.01707
+Word:compounding                
+TF-IDF:  0.01631
+Top words in document: EyewearOpticians
+
+Word:glasses            
+TF-IDF:  0.03943
+Word:frames             
+TF-IDF:  0.02891
+Word:dr         
+TF-IDF:  0.02319
+Word:eye                
+TF-IDF:  0.01899
+Word:contacts           
+TF-IDF:  0.01366
+Word:mastores           
+TF-IDF:  0.01316
+Word:lenses             
+TF-IDF:  0.01312
+Word:exam               
+TF-IDF:  0.01159
+Word:optical            
+TF-IDF:  0.01155
+Word:doctor             
+TF-IDF:  0.01094
+Top words in document: AutoDetailing
+
+Word:wash               
+TF-IDF:  0.04684
+Word:car                
+TF-IDF:  0.03993
+Word:cobblestone                
+TF-IDF:  0.01962
+Word:lindstrom          
+TF-IDF:  0.01075
+Word:washed             
+TF-IDF:  0.00844
+Word:washes             
+TF-IDF:  0.00778
+Word:job                
+TF-IDF:  0.00658
+Word:carwash            
+TF-IDF:  0.00653
+Word:vacuum             
+TF-IDF:  0.00562
+Word:shampooed          
+TF-IDF:  0.00491
+Top words in document: AnimalShelters
+
+Word:adoption           
+TF-IDF:  0.04673
+Word:arl                
+TF-IDF:  0.04443
+Word:shelter            
+TF-IDF:  0.04417
+Word:animals            
+TF-IDF:  0.03897
+Word:adopted            
+TF-IDF:  0.03749
+Word:vet                
+TF-IDF:  0.03609
+Word:adopt              
+TF-IDF:  0.03355
+Word:animal             
+TF-IDF:  0.0327
+Word:dogs               
+TF-IDF:  0.02653
+Word:dog                
+TF-IDF:  0.02437
+Top words in document: SouvenirShops
+
+Word:party              
+TF-IDF:  0.07442
+Word:globes             
+TF-IDF:  0.04322
+Word:shoppes            
+TF-IDF:  0.04012
+Word:gander             
+TF-IDF:  0.03792
+Word:tailgating         
+TF-IDF:  0.03483
+Word:suitcase           
+TF-IDF:  0.03173
+Word:souvenirs          
+TF-IDF:  0.0302
+Word:supplies           
+TF-IDF:  0.02992
+Word:store              
+TF-IDF:  0.02899
+Word:pittsburgh         
+TF-IDF:  0.02804
+Top words in document: Notaries
+
+Word:ups                
+TF-IDF:  0.04469
+Word:package            
+TF-IDF:  0.01636
+Word:store              
+TF-IDF:  0.01613
+Word:ship               
+TF-IDF:  0.01575
+Word:fedex              
+TF-IDF:  0.01511
+Word:shipping           
+TF-IDF:  0.01329
+Word:tape               
+TF-IDF:  0.01275
+Word:box                
+TF-IDF:  0.0078
+Word:delivery           
+TF-IDF:  0.00677
+Word:packages           
+TF-IDF:  0.00615
+Top words in document: CarWash
+
+Word:wash               
+TF-IDF:  0.05109
+Word:car                
+TF-IDF:  0.04437
+Word:washes             
+TF-IDF:  0.012
+Word:washed             
+TF-IDF:  0.00923
+Word:olivos             
+TF-IDF:  0.00812
+Word:cobblestone                
+TF-IDF:  0.00808
+Word:danny              
+TF-IDF:  0.00785
+Word:vacuum             
+TF-IDF:  0.00622
+Word:cars               
+TF-IDF:  0.00558
+Word:windshield         
+TF-IDF:  0.00557
+Top words in document: Magicians
+
+Word:shawn              
+TF-IDF:  0.24517
+Word:resorts            
+TF-IDF:  0.17574
+Word:entertainer                
+TF-IDF:  0.16899
+Word:magician           
+TF-IDF:  0.15007
+Word:hired              
+TF-IDF:  0.10816
+Word:hiring             
+TF-IDF:  0.10367
+Word:eric               
+TF-IDF:  0.10161
+Word:dozens             
+TF-IDF:  0.10062
+Word:delivers           
+TF-IDF:  0.09355
+Word:delight            
+TF-IDF:  0.08496
+Top words in document: CouriersDeliveryServices
+
+Word:pharmacy           
+TF-IDF:  0.07901
+Word:cvp                
+TF-IDF:  0.06203
+Word:2hr                
+TF-IDF:  0.03435
+Word:wayfair            
+TF-IDF:  0.03435
+Word:delivery           
+TF-IDF:  0.0341
+Word:7:10               
+TF-IDF:  0.03247
+Word:compounding                
+TF-IDF:  0.03101
+Word:contracted         
+TF-IDF:  0.02982
+Word:tasked             
+TF-IDF:  0.02982
+Word:katrina            
+TF-IDF:  0.02794
+Top words in document: Delis
+
+Word:deli               
+TF-IDF:  0.01906
+Word:sandwich           
+TF-IDF:  0.01802
+Word:sandwiches         
+TF-IDF:  0.01448
+Word:pastrami           
+TF-IDF:  0.01077
+Word:bagel              
+TF-IDF:  0.0104
+Word:italian            
+TF-IDF:  0.00914
+Word:food               
+TF-IDF:  0.00847
+Word:cheese             
+TF-IDF:  0.00771
+Word:bagels             
+TF-IDF:  0.00729
+Word:meat               
+TF-IDF:  0.00631
+Top words in document: RaceTracks
+
+Word:unregulated                
+TF-IDF:  0.07077
+Word:angell             
+TF-IDF:  0.07077
+Word:unmuffled          
+TF-IDF:  0.07077
+Word:non-racing         
+TF-IDF:  0.07077
+Word:sinkhole           
+TF-IDF:  0.07077
+Word:grassland          
+TF-IDF:  0.07077
+Word:pollution          
+TF-IDF:  0.07077
+Word:xoxo               
+TF-IDF:  0.05931
+Word:audible            
+TF-IDF:  0.05931
+Word:external           
+TF-IDF:  0.05703
+Top words in document: Lawyers
+
+Word:attorney           
+TF-IDF:  0.02882
+Word:jaburg             
+TF-IDF:  0.02052
+Word:firm               
+TF-IDF:  0.0203
+Word:law                
+TF-IDF:  0.01944
+Word:mitch              
+TF-IDF:  0.01906
+Word:wilk               
+TF-IDF:  0.01539
+Word:jason              
+TF-IDF:  0.01513
+Word:sonja              
+TF-IDF:  0.0148
+Word:lawyer             
+TF-IDF:  0.01475
+Word:case               
+TF-IDF:  0.01403
+Top words in document: JazzBlues
+
+Word:cajun              
+TF-IDF:  0.04051
+Word:crawfish           
+TF-IDF:  0.03106
+Word:shrimp             
+TF-IDF:  0.02994
+Word:food               
+TF-IDF:  0.01881
+Word:queen              
+TF-IDF:  0.01645
+Word:gumbo              
+TF-IDF:  0.01589
+Word:orleans            
+TF-IDF:  0.01571
+Word:fried              
+TF-IDF:  0.01431
+Word:diane              
+TF-IDF:  0.01307
+Word:blackened          
+TF-IDF:  0.01217
+Top words in document: BatteryStores
+
+Word:battery            
+TF-IDF:  0.09538
+Word:batteries          
+TF-IDF:  0.05072
+Word:josh               
+TF-IDF:  0.01882
+Word:car                
+TF-IDF:  0.01747
+Word:recycle            
+TF-IDF:  0.0159
+Word:warranty           
+TF-IDF:  0.0122
+Word:installed          
+TF-IDF:  0.01194
+Word:tires              
+TF-IDF:  0.01151
+Word:laptop             
+TF-IDF:  0.01098
+Word:store              
+TF-IDF:  0.00956
+Top words in document: Utilities
+
+Word:power              
+TF-IDF:  0.0506
+Word:electric           
+TF-IDF:  0.04197
+Word:dicked             
+TF-IDF:  0.03931
+Word:a-brewing          
+TF-IDF:  0.03931
+Word:cfl                
+TF-IDF:  0.03931
+Word:autopay            
+TF-IDF:  0.03931
+Word:custmer            
+TF-IDF:  0.03931
+Word:companys           
+TF-IDF:  0.03931
+Word:220                
+TF-IDF:  0.0365
+Word:scumbags           
+TF-IDF:  0.0345
+Top words in document: Watches
+
+Word:ring               
+TF-IDF:  0.06059
+Word:hyde               
+TF-IDF:  0.05439
+Word:jeweler            
+TF-IDF:  0.03702
+Word:henne              
+TF-IDF:  0.01896
+Word:watches            
+TF-IDF:  0.01684
+Word:erik               
+TF-IDF:  0.01587
+Word:engagement         
+TF-IDF:  0.01538
+Word:john               
+TF-IDF:  0.01359
+Word:jewelry            
+TF-IDF:  0.01308
+Word:doug               
+TF-IDF:  0.01302
+Top words in document: Advertising
+
+Word:pharmacy           
+TF-IDF:  0.2628
+Word:cvp                
+TF-IDF:  0.2063
+Word:compounding                
+TF-IDF:  0.10315
+Word:outlets            
+TF-IDF:  0.07413
+Word:1970               
+TF-IDF:  0.07413
+Word:appalled           
+TF-IDF:  0.06494
+Word:ol         
+TF-IDF:  0.06024
+Word:backyard           
+TF-IDF:  0.05964
+Word:behavior           
+TF-IDF:  0.04487
+Word:camelback          
+TF-IDF:  0.03556
+Top words in document: CheckCashingPaydayLoans
+
+Word:mdmfnj-i_td1qmmhdhamgw             
+TF-IDF:  0.49681
+Word:rates              
+TF-IDF:  0.21203
+Word:goods              
+TF-IDF:  0.1877
+Word:hands              
+TF-IDF:  0.09837
+Word:valley             
+TF-IDF:  0.0925
+Word:best               
+TF-IDF:  0.07059
+Word:prices             
+TF-IDF:  0.05705
+Word:helpful            
+TF-IDF:  0.04683
+Word:friendly           
+TF-IDF:  0.03094
+Top words in document: RecreationCenters
+
+Word:swim               
+TF-IDF:  0.09263
+Word:childcare          
+TF-IDF:  0.05693
+Word:triathlon          
+TF-IDF:  0.05568
+Word:pool               
+TF-IDF:  0.0423
+Word:lanes              
+TF-IDF:  0.04202
+Word:resident           
+TF-IDF:  0.03835
+Word:charmeck           
+TF-IDF:  0.03781
+Word:maters             
+TF-IDF:  0.03781
+Word:hlel9c7zyx7pfru5toeiaa             
+TF-IDF:  0.03781
+Word:multi-purpose              
+TF-IDF:  0.03172
+Top words in document: DecksRailing
+
+Word:deck               
+TF-IDF:  0.26216
+Word:quaker             
+TF-IDF:  0.07773
+Word:sorted             
+TF-IDF:  0.06755
+Word:estimates          
+TF-IDF:  0.05853
+Word:myself             
+TF-IDF:  0.04846
+Word:estimate           
+TF-IDF:  0.04267
+Word:construction               
+TF-IDF:  0.03936
+Word:when               
+TF-IDF:  0.03778
+Word:plans              
+TF-IDF:  0.03778
+Word:relax              
+TF-IDF:  0.03519
+Top words in document: GiftShops
+
+Word:kards              
+TF-IDF:  0.02293
+Word:candy              
+TF-IDF:  0.02208
+Word:chocolate          
+TF-IDF:  0.01809
+Word:bordeaux           
+TF-IDF:  0.01772
+Word:chocolates         
+TF-IDF:  0.01576
+Word:cards              
+TF-IDF:  0.01427
+Word:books              
+TF-IDF:  0.01424
+Word:candies            
+TF-IDF:  0.01416
+Word:see                
+TF-IDF:  0.01245
+Word:unlimited          
+TF-IDF:  0.01208
+Top words in document: GlutenFree
+
+Word:pizza              
+TF-IDF:  0.08288
+Word:spinato            
+TF-IDF:  0.02879
+Word:sauce              
+TF-IDF:  0.01962
+Word:calzone            
+TF-IDF:  0.01887
+Word:crust              
+TF-IDF:  0.01788
+Word:spinatos           
+TF-IDF:  0.0126
+Word:pizzas             
+TF-IDF:  0.01091
+Word:spaghetti          
+TF-IDF:  0.00897
+Word:uno                
+TF-IDF:  0.00833
+Word:food               
+TF-IDF:  0.00802
+Top words in document: HomeServices
+
+Word:company            
+TF-IDF:  0.00512
+Word:store              
+TF-IDF:  0.0045
+Word:twc                
+TF-IDF:  0.00379
+Word:orion              
+TF-IDF:  0.00356
+Word:pool               
+TF-IDF:  0.00356
+Word:battery            
+TF-IDF:  0.0035
+Word:service            
+TF-IDF:  0.00345
+Word:phone              
+TF-IDF:  0.00323
+Word:verizon            
+TF-IDF:  0.0029
+Word:mortgage           
+TF-IDF:  0.00278
+Top words in document: Wills
+
+Word:michael            
+TF-IDF:  0.11101
+Word:estate             
+TF-IDF:  0.07105
+Word:wills              
+TF-IDF:  0.05652
+Word:reconnected                
+TF-IDF:  0.0533
+Word:micheal            
+TF-IDF:  0.0533
+Word:dynamic            
+TF-IDF:  0.05195
+Word:understanding              
+TF-IDF:  0.04644
+Word:receptive          
+TF-IDF:  0.04592
+Word:tucker             
+TF-IDF:  0.04514
+Word:documents          
+TF-IDF:  0.04372
+Top words in document: ConvenienceStores
+
+Word:pharmacy           
+TF-IDF:  0.02989
+Word:walgreens          
+TF-IDF:  0.02086
+Word:prescription               
+TF-IDF:  0.01528
+Word:gas                
+TF-IDF:  0.01467
+Word:qt         
+TF-IDF:  0.01124
+Word:store              
+TF-IDF:  0.00995
+Word:prescriptions              
+TF-IDF:  0.00957
+Word:walgreen           
+TF-IDF:  0.00889
+Word:pharmacist         
+TF-IDF:  0.00846
+Word:medicine           
+TF-IDF:  0.0071
+Top words in document: PartyEquipmentRentals
+
+Word:linens             
+TF-IDF:  0.16882
+Word:finalize           
+TF-IDF:  0.10949
+Word:procrastination            
+TF-IDF:  0.09505
+Word:reflections                
+TF-IDF:  0.09184
+Word:party              
+TF-IDF:  0.07616
+Word:decor              
+TF-IDF:  0.0667
+Word:flowers            
+TF-IDF:  0.05007
+Word:contract           
+TF-IDF:  0.04815
+Word:rental             
+TF-IDF:  0.04607
+Word:approach           
+TF-IDF:  0.04542
+Top words in document: Roofing
+
+Word:deck               
+TF-IDF:  0.09613
+Word:tested             
+TF-IDF:  0.07966
+Word:rating             
+TF-IDF:  0.04042
+Word:window             
+TF-IDF:  0.03583
+Word:choose             
+TF-IDF:  0.03554
+Word:chimney            
+TF-IDF:  0.03504
+Word:cohoots            
+TF-IDF:  0.03504
+Word:1092               
+TF-IDF:  0.03163
+Word:company            
+TF-IDF:  0.03083
+Word:lead               
+TF-IDF:  0.03059
+Top words in document: Chiropractors
+
+Word:dr         
+TF-IDF:  0.06405
+Word:chiropractic               
+TF-IDF:  0.04177
+Word:chiropractor               
+TF-IDF:  0.03299
+Word:massage            
+TF-IDF:  0.01828
+Word:pain               
+TF-IDF:  0.01779
+Word:chiropractors              
+TF-IDF:  0.01712
+Word:adjustments                
+TF-IDF:  0.01277
+Word:patients           
+TF-IDF:  0.01252
+Word:therapist          
+TF-IDF:  0.01213
+Word:chiro              
+TF-IDF:  0.01159
+Top words in document: Hospitals
+
+Word:hospital           
+TF-IDF:  0.03494
+Word:nurse              
+TF-IDF:  0.02322
+Word:nurses             
+TF-IDF:  0.01857
+Word:er         
+TF-IDF:  0.01419
+Word:doctor             
+TF-IDF:  0.01091
+Word:vein               
+TF-IDF:  0.00835
+Word:pain               
+TF-IDF:  0.00732
+Word:doctors            
+TF-IDF:  0.00719
+Word:emergency          
+TF-IDF:  0.00717
+Word:hospitals          
+TF-IDF:  0.00713
+Top words in document: ChocolatiersShops
+
+Word:chocolate          
+TF-IDF:  0.05953
+Word:chocolates         
+TF-IDF:  0.02615
+Word:candy              
+TF-IDF:  0.02423
+Word:aimee              
+TF-IDF:  0.01384
+Word:bordeaux           
+TF-IDF:  0.01337
+Word:gelato             
+TF-IDF:  0.01204
+Word:peanut             
+TF-IDF:  0.0119
+Word:milk               
+TF-IDF:  0.01141
+Word:candies            
+TF-IDF:  0.01068
+Word:mon                
+TF-IDF:  0.01019
+Top words in document: Photographers
+
+Word:leanna             
+TF-IDF:  0.11951
+Word:kay                
+TF-IDF:  0.10418
+Word:photography                
+TF-IDF:  0.03412
+Word:session            
+TF-IDF:  0.03201
+Word:proofs             
+TF-IDF:  0.0303
+Word:photo              
+TF-IDF:  0.02818
+Word:photographer               
+TF-IDF:  0.02506
+Word:photos             
+TF-IDF:  0.02404
+Word:pictures           
+TF-IDF:  0.02023
+Word:eskridge           
+TF-IDF:  0.01806
+Top words in document: Allergists
+
+Word:allergy            
+TF-IDF:  0.03959
+Word:tests              
+TF-IDF:  0.03419
+Word:test               
+TF-IDF:  0.03416
+Word:allergist          
+TF-IDF:  0.03402
+Word:keightley          
+TF-IDF:  0.03402
+Word:allergies          
+TF-IDF:  0.02588
+Word:doctor             
+TF-IDF:  0.02553
+Word:shots              
+TF-IDF:  0.02296
+Word:insurance          
+TF-IDF:  0.01845
+Word:reputable          
+TF-IDF:  0.01793
+Top words in document: ShoppingCenters
+
+Word:mall               
+TF-IDF:  0.04778
+Word:stores             
+TF-IDF:  0.02134
+Word:malls              
+TF-IDF:  0.01045
+Word:court              
+TF-IDF:  0.01044
+Word:shopping           
+TF-IDF:  0.00817
+Word:center             
+TF-IDF:  0.00812
+Word:restaurants                
+TF-IDF:  0.00786
+Word:food               
+TF-IDF:  0.00662
+Word:anthropologie              
+TF-IDF:  0.00585
+Word:carousel           
+TF-IDF:  0.00565
+Top words in document: Podiatrists
+
+Word:dr         
+TF-IDF:  0.04993
+Word:toenail            
+TF-IDF:  0.0444
+Word:foot               
+TF-IDF:  0.04002
+Word:orthotic           
+TF-IDF:  0.03943
+Word:ankle              
+TF-IDF:  0.03851
+Word:ingrown            
+TF-IDF:  0.0333
+Word:lind               
+TF-IDF:  0.02418
+Word:lowy               
+TF-IDF:  0.02418
+Word:procedure          
+TF-IDF:  0.02302
+Word:harlan             
+TF-IDF:  0.0222
+Top words in document: FarmersMarket
+
+Word:produce            
+TF-IDF:  0.05646
+Word:sprouts            
+TF-IDF:  0.0481
+Word:fruits             
+TF-IDF:  0.0212
+Word:fresh              
+TF-IDF:  0.01597
+Word:veggies            
+TF-IDF:  0.01477
+Word:grocery            
+TF-IDF:  0.01291
+Word:sausages           
+TF-IDF:  0.01264
+Word:store              
+TF-IDF:  0.01215
+Word:foods              
+TF-IDF:  0.01079
+Word:organic            
+TF-IDF:  0.00985
+Top words in document: VintageConsignment
+
+Word:vintage            
+TF-IDF:  0.01666
+Word:consignment                
+TF-IDF:  0.01525
+Word:clothes            
+TF-IDF:  0.01448
+Word:clothing           
+TF-IDF:  0.01221
+Word:store              
+TF-IDF:  0.01006
+Word:closet             
+TF-IDF:  0.00901
+Word:stuff              
+TF-IDF:  0.00733
+Word:items              
+TF-IDF:  0.00713
+Word:consign            
+TF-IDF:  0.00705
+Word:jeans              
+TF-IDF:  0.00592
+Top words in document: SkiResorts
+
+Word:skis               
+TF-IDF:  0.05616
+Word:boots              
+TF-IDF:  0.03944
+Word:gloves             
+TF-IDF:  0.03364
+Word:skiing             
+TF-IDF:  0.02906
+Word:skis/boots/etc             
+TF-IDF:  0.02906
+Word:xls                
+TF-IDF:  0.02906
+Word:convinces          
+TF-IDF:  0.02906
+Word:larger-size                
+TF-IDF:  0.02906
+Word:90-degree          
+TF-IDF:  0.02808
+Word:snowboarding               
+TF-IDF:  0.02808
+Top words in document: DiagnosticServices
+
+Word:mri                
+TF-IDF:  0.04453
+Word:paperwork          
+TF-IDF:  0.02408
+Word:felony             
+TF-IDF:  0.01479
+Word:tasc               
+TF-IDF:  0.01479
+Word:government         
+TF-IDF:  0.01478
+Word:procedure          
+TF-IDF:  0.01408
+Word:imaging            
+TF-IDF:  0.01312
+Word:eval               
+TF-IDF:  0.01312
+Word:record             
+TF-IDF:  0.01271
+Word:understaffed               
+TF-IDF:  0.01158
+Top words in document: TaxLaw
+
+Word:compromise         
+TF-IDF:  0.13995
+Word:firm               
+TF-IDF:  0.10205
+Word:e2cud-bchqknnichk2sawq             
+TF-IDF:  0.09919
+Word:irs                
+TF-IDF:  0.09037
+Word:pleasurable                
+TF-IDF:  0.08238
+Word:bk         
+TF-IDF:  0.07927
+Word:owed               
+TF-IDF:  0.07655
+Word:settling           
+TF-IDF:  0.07655
+Word:victoria           
+TF-IDF:  0.07413
+Word:together           
+TF-IDF:  0.05964
+Top words in document: BotanicalGardens
+
+Word:gardens            
+TF-IDF:  0.02804
+Word:garden             
+TF-IDF:  0.02468
+Word:botanical          
+TF-IDF:  0.02223
+Word:desert             
+TF-IDF:  0.02179
+Word:exhibit            
+TF-IDF:  0.01985
+Word:chihuly            
+TF-IDF:  0.01979
+Word:plants             
+TF-IDF:  0.018
+Word:dbg                
+TF-IDF:  0.01453
+Word:cacti              
+TF-IDF:  0.01403
+Word:butterfly          
+TF-IDF:  0.01377
+Top words in document: KnittingSupplies
+
+Word:michaels           
+TF-IDF:  0.03683
+Word:michael            
+TF-IDF:  0.02945
+Word:framed             
+TF-IDF:  0.01616
+Word:glitter            
+TF-IDF:  0.01444
+Word:store              
+TF-IDF:  0.01329
+Word:crafting           
+TF-IDF:  0.01181
+Word:flower             
+TF-IDF:  0.01111
+Word:9/19               
+TF-IDF:  0.00966
+Word:metrocenter                
+TF-IDF:  0.00966
+Word:yarn               
+TF-IDF:  0.00887
+Top words in document: GunsAmmo
+
+Word:hyatt              
+TF-IDF:  0.04732
+Word:gun                
+TF-IDF:  0.03843
+Word:guns               
+TF-IDF:  0.02136
+Word:gr_xp2i0m5ir-ht7eipwqg             
+TF-IDF:  0.01515
+Word:trigg              
+TF-IDF:  0.01515
+Word:shooting           
+TF-IDF:  0.01254
+Word:ranges             
+TF-IDF:  0.0122
+Word:range              
+TF-IDF:  0.01204
+Word:hyatts             
+TF-IDF:  0.0101
+Word:handguns           
+TF-IDF:  0.0101
+Top words in document: Marketing
+
+Word:alphagraphics              
+TF-IDF:  0.15783
+Word:printing           
+TF-IDF:  0.0565
+Word:larry              
+TF-IDF:  0.03674
+Word:furlong            
+TF-IDF:  0.03157
+Word:capabilities               
+TF-IDF:  0.0285
+Word:printed            
+TF-IDF:  0.02131
+Word:printer            
+TF-IDF:  0.0208
+Word:franchise          
+TF-IDF:  0.01586
+Word:reprint            
+TF-IDF:  0.01578
+Word:monteith           
+TF-IDF:  0.01578
+Top words in document: BedBreakfast
+
+Word:b          
+TF-IDF:  0.02215
+Word:hotel              
+TF-IDF:  0.01942
+Word:breakfast          
+TF-IDF:  0.01896
+Word:tea                
+TF-IDF:  0.01308
+Word:room               
+TF-IDF:  0.0118
+Word:bed                
+TF-IDF:  0.01058
+Word:stayed             
+TF-IDF:  0.01005
+Word:priory             
+TF-IDF:  0.00941
+Word:rooms              
+TF-IDF:  0.00936
+Word:inn                
+TF-IDF:  0.00859
+Top words in document: MiddleSchoolsHighSchools
+
+Word:school             
+TF-IDF:  0.05946
+Word:teachers           
+TF-IDF:  0.03454
+Word:asa                
+TF-IDF:  0.02905
+Word:pvusd              
+TF-IDF:  0.02905
+Word:academic           
+TF-IDF:  0.025
+Word:kids               
+TF-IDF:  0.02247
+Word:teach              
+TF-IDF:  0.01899
+Word:grade              
+TF-IDF:  0.01847
+Word:christian          
+TF-IDF:  0.01834
+Word:policies           
+TF-IDF:  0.01747
+Top words in document: Books
+
+Word:books              
+TF-IDF:  0.05984
+Word:book               
+TF-IDF:  0.02252
+Word:bookstore          
+TF-IDF:  0.01961
+Word:store              
+TF-IDF:  0.01412
+Word:barnes             
+TF-IDF:  0.01226
+Word:noble              
+TF-IDF:  0.01003
+Word:bookstores         
+TF-IDF:  0.00993
+Word:amazon             
+TF-IDF:  0.00717
+Word:novels             
+TF-IDF:  0.00585
+Word:selection          
+TF-IDF:  0.00583
+Top words in document: GeneralDentistry
+
+Word:dentist            
+TF-IDF:  0.05684
+Word:dr         
+TF-IDF:  0.03596
+Word:dental             
+TF-IDF:  0.03454
+Word:teeth              
+TF-IDF:  0.01523
+Word:office             
+TF-IDF:  0.01418
+Word:insurance          
+TF-IDF:  0.01351
+Word:dameron            
+TF-IDF:  0.01056
+Word:tooth              
+TF-IDF:  0.00987
+Word:hygienist          
+TF-IDF:  0.00954
+Word:appointment                
+TF-IDF:  0.0091
+Top words in document: Ramen
+
+Word:ramen              
+TF-IDF:  0.04918
+Word:sushi              
+TF-IDF:  0.0248
+Word:noodles            
+TF-IDF:  0.01877
+Word:food               
+TF-IDF:  0.01582
+Word:noodle             
+TF-IDF:  0.01478
+Word:udon               
+TF-IDF:  0.01359
+Word:blossom            
+TF-IDF:  0.01253
+Word:cherryblossom              
+TF-IDF:  0.01189
+Word:japanese           
+TF-IDF:  0.01165
+Word:italian            
+TF-IDF:  0.01098
+Top words in document: SocialClubs
+
+Word:union              
+TF-IDF:  0.0849
+Word:banjo              
+TF-IDF:  0.05511
+Word:illinois           
+TF-IDF:  0.03611
+Word:gallery            
+TF-IDF:  0.03572
+Word:democrats          
+TF-IDF:  0.03538
+Word:lauded             
+TF-IDF:  0.03538
+Word:hotel              
+TF-IDF:  0.03498
+Word:club               
+TF-IDF:  0.03299
+Word:democratic         
+TF-IDF:  0.03285
+Word:seating-hotel              
+TF-IDF:  0.02966
+Top words in document: DryCleaningLaundry
+
+Word:cleaners           
+TF-IDF:  0.0322
+Word:dry                
+TF-IDF:  0.02223
+Word:clothes            
+TF-IDF:  0.01841
+Word:laundry            
+TF-IDF:  0.01515
+Word:cleaning           
+TF-IDF:  0.01446
+Word:shirts             
+TF-IDF:  0.01283
+Word:laundromat         
+TF-IDF:  0.0097
+Word:comforter          
+TF-IDF:  0.00924
+Word:dress              
+TF-IDF:  0.00867
+Word:cleaned            
+TF-IDF:  0.00839
+Top words in document: AppraisalServices
+
+Word:ring               
+TF-IDF:  0.06543
+Word:burland            
+TF-IDF:  0.05976
+Word:jewelry            
+TF-IDF:  0.0437
+Word:trish              
+TF-IDF:  0.02011
+Word:rings              
+TF-IDF:  0.01692
+Word:burlands           
+TF-IDF:  0.01655
+Word:wedding            
+TF-IDF:  0.01537
+Word:necklace           
+TF-IDF:  0.01462
+Word:diamonds           
+TF-IDF:  0.01309
+Word:engagement         
+TF-IDF:  0.01142
+Top words in document: DivorceFamilyLaw
+
+Word:jaburg             
+TF-IDF:  0.06142
+Word:mitch              
+TF-IDF:  0.05707
+Word:wilk               
+TF-IDF:  0.04607
+Word:firm               
+TF-IDF:  0.04557
+Word:lawyer             
+TF-IDF:  0.03311
+Word:reishman           
+TF-IDF:  0.03071
+Word:attorney           
+TF-IDF:  0.02588
+Word:legal              
+TF-IDF:  0.02004
+Word:maria              
+TF-IDF:  0.01933
+Word:proof              
+TF-IDF:  0.0189
+Top words in document: SpecialtySchools
+
+Word:swim               
+TF-IDF:  0.03726
+Word:hubbard            
+TF-IDF:  0.02061
+Word:instructors                
+TF-IDF:  0.01452
+Word:instructor         
+TF-IDF:  0.01239
+Word:swimming           
+TF-IDF:  0.0119
+Word:cake               
+TF-IDF:  0.01142
+Word:lessons            
+TF-IDF:  0.00917
+Word:pool               
+TF-IDF:  0.00907
+Word:classes            
+TF-IDF:  0.00824
+Word:school             
+TF-IDF:  0.00824
+Top words in document: Luggage
+
+Word:zipper             
+TF-IDF:  0.04844
+Word:boots              
+TF-IDF:  0.04537
+Word:stitching          
+TF-IDF:  0.04252
+Word:soles              
+TF-IDF:  0.0364
+Word:cobbler            
+TF-IDF:  0.03637
+Word:glue               
+TF-IDF:  0.03537
+Word:lv         
+TF-IDF:  0.0323
+Word:suitcase           
+TF-IDF:  0.03046
+Word:shoes              
+TF-IDF:  0.02669
+Word:strap              
+TF-IDF:  0.0258
+Top words in document: FinancialServices
+
+Word:aaa                
+TF-IDF:  0.02864
+Word:title              
+TF-IDF:  0.01311
+Word:farm               
+TF-IDF:  0.01118
+Word:annette            
+TF-IDF:  0.01074
+Word:insurance          
+TF-IDF:  0.01041
+Word:taxes              
+TF-IDF:  0.00923
+Word:car                
+TF-IDF:  0.00824
+Word:membership         
+TF-IDF:  0.00739
+Word:roadside           
+TF-IDF:  0.00707
+Word:member             
+TF-IDF:  0.00618
+Top words in document: Framing
+
+Word:framing            
+TF-IDF:  0.06841
+Word:frame              
+TF-IDF:  0.03746
+Word:framed             
+TF-IDF:  0.03219
+Word:framin             
+TF-IDF:  0.02035
+Word:art                
+TF-IDF:  0.01705
+Word:aaron              
+TF-IDF:  0.01602
+Word:alan               
+TF-IDF:  0.01532
+Word:brothers           
+TF-IDF:  0.0148
+Word:frames             
+TF-IDF:  0.0132
+Word:pat                
+TF-IDF:  0.01302
+Top words in document: CookingSchools
+
+Word:cake               
+TF-IDF:  0.03421
+Word:barbara            
+TF-IDF:  0.02223
+Word:glorious           
+TF-IDF:  0.0212
+Word:bakery             
+TF-IDF:  0.02003
+Word:ymetesudqkoyjoce5fx3gq             
+TF-IDF:  0.01581
+Word:chef               
+TF-IDF:  0.0149
+Word:biscuits           
+TF-IDF:  0.01486
+Word:delicious          
+TF-IDF:  0.01433
+Word:sugar              
+TF-IDF:  0.01403
+Word:ham                
+TF-IDF:  0.01302
+Top words in document: Dermatologists
+
+Word:dr         
+TF-IDF:  0.03374
+Word:laris              
+TF-IDF:  0.02988
+Word:skin               
+TF-IDF:  0.02911
+Word:romine             
+TF-IDF:  0.02648
+Word:dermatologist              
+TF-IDF:  0.01745
+Word:office             
+TF-IDF:  0.01296
+Word:pa         
+TF-IDF:  0.01261
+Word:appointment                
+TF-IDF:  0.01174
+Word:doctor             
+TF-IDF:  0.01159
+Word:removal            
+TF-IDF:  0.01018
+Top words in document: Midwives
+
+Word:ppa                
+TF-IDF:  0.03301
+Word:nurses             
+TF-IDF:  0.02232
+Word:quoted             
+TF-IDF:  0.01991
+Word:appointment                
+TF-IDF:  0.01956
+Word:adiagohealth               
+TF-IDF:  0.01746
+Word:c-sections         
+TF-IDF:  0.01746
+Word:tmc                
+TF-IDF:  0.01746
+Word:lactation          
+TF-IDF:  0.01746
+Word:midwives           
+TF-IDF:  0.01746
+Word:midwife            
+TF-IDF:  0.01746
+Top words in document: SportsBars
+
+Word:food               
+TF-IDF:  0.01545
+Word:bar                
+TF-IDF:  0.01294
+Word:wings              
+TF-IDF:  0.01149
+Word:sandwich           
+TF-IDF:  0.00885
+Word:fries              
+TF-IDF:  0.00826
+Word:sports             
+TF-IDF:  0.00758
+Word:beer               
+TF-IDF:  0.00749
+Word:burger             
+TF-IDF:  0.00638
+Word:game               
+TF-IDF:  0.00583
+Word:drinks             
+TF-IDF:  0.00575
+Top words in document: Antiques
+
+Word:vintage            
+TF-IDF:  0.02113
+Word:soda               
+TF-IDF:  0.01779
+Word:cream              
+TF-IDF:  0.0148
+Word:ice                
+TF-IDF:  0.0135
+Word:antique            
+TF-IDF:  0.01126
+Word:antiques           
+TF-IDF:  0.0112
+Word:fountain           
+TF-IDF:  0.00758
+Word:food               
+TF-IDF:  0.00731
+Word:sodas              
+TF-IDF:  0.00657
+Word:marlene            
+TF-IDF:  0.00629
+Top words in document: TransmissionRepair
+
+Word:transmission               
+TF-IDF:  0.03373
+Word:car                
+TF-IDF:  0.02851
+Word:brian              
+TF-IDF:  0.02051
+Word:dawn               
+TF-IDF:  0.01686
+Word:mechanic           
+TF-IDF:  0.01678
+Word:aamco              
+TF-IDF:  0.01444
+Word:mechanics          
+TF-IDF:  0.01343
+Word:repairs            
+TF-IDF:  0.01317
+Word:motor              
+TF-IDF:  0.01007
+Word:inspection         
+TF-IDF:  0.00991
+Top words in document: Bakeries
+
+Word:cake               
+TF-IDF:  0.0228
+Word:bakery             
+TF-IDF:  0.01674
+Word:cakes              
+TF-IDF:  0.01197
+Word:donuts             
+TF-IDF:  0.00917
+Word:delicious          
+TF-IDF:  0.00865
+Word:pastries           
+TF-IDF:  0.0086
+Word:cupcakes           
+TF-IDF:  0.00839
+Word:cookies            
+TF-IDF:  0.00812
+Word:bread              
+TF-IDF:  0.00798
+Word:food               
+TF-IDF:  0.00713
+Top words in document: WineBars
+
+Word:bruschetta         
+TF-IDF:  0.02961
+Word:wine               
+TF-IDF:  0.01999
+Word:postino            
+TF-IDF:  0.01327
+Word:food               
+TF-IDF:  0.01222
+Word:grille             
+TF-IDF:  0.00757
+Word:restaurant         
+TF-IDF:  0.00674
+Word:salad              
+TF-IDF:  0.00629
+Word:capital            
+TF-IDF:  0.00627
+Word:delicious          
+TF-IDF:  0.00598
+Word:casbah             
+TF-IDF:  0.00566
+Top words in document: Golf
+
+Word:course             
+TF-IDF:  0.03619
+Word:greens             
+TF-IDF:  0.03107
+Word:golf               
+TF-IDF:  0.02942
+Word:courses            
+TF-IDF:  0.01793
+Word:holes              
+TF-IDF:  0.01744
+Word:papago             
+TF-IDF:  0.01619
+Word:tee                
+TF-IDF:  0.01509
+Word:fairways           
+TF-IDF:  0.01471
+Word:carts              
+TF-IDF:  0.01392
+Word:shape              
+TF-IDF:  0.01258
+Top words in document: Tattoo
+
+Word:tattoo             
+TF-IDF:  0.10688
+Word:fu         
+TF-IDF:  0.04277
+Word:tattoos            
+TF-IDF:  0.02887
+Word:piercings          
+TF-IDF:  0.02672
+Word:jake               
+TF-IDF:  0.02376
+Word:lunchbox           
+TF-IDF:  0.0219
+Word:piercing           
+TF-IDF:  0.01977
+Word:artist             
+TF-IDF:  0.01971
+Word:tat                
+TF-IDF:  0.01553
+Word:hayley             
+TF-IDF:  0.01553
+Top words in document: ArtSupplies
+
+Word:archiver           
+TF-IDF:  0.15016
+Word:laid-out           
+TF-IDF:  0.12214
+Word:uw         
+TF-IDF:  0.10827
+Word:chatty             
+TF-IDF:  0.08438
+Word:explains           
+TF-IDF:  0.07476
+Word:middleton          
+TF-IDF:  0.07343
+Word:attitudes          
+TF-IDF:  0.06812
+Word:spacious           
+TF-IDF:  0.06457
+Word:campus             
+TF-IDF:  0.05936
+Word:improve            
+TF-IDF:  0.05363
+Top words in document: AmericanTraditional
+
+Word:food               
+TF-IDF:  0.01751
+Word:burger             
+TF-IDF:  0.00901
+Word:bar                
+TF-IDF:  0.008
+Word:beer               
+TF-IDF:  0.00631
+Word:wings              
+TF-IDF:  0.00624
+Word:menu               
+TF-IDF:  0.00579
+Word:fries              
+TF-IDF:  0.00564
+Word:chicken            
+TF-IDF:  0.00508
+Word:burgers            
+TF-IDF:  0.00491
+Word:restaurant         
+TF-IDF:  0.00464
+Top words in document: TaxServices
+
+Word:taxes              
+TF-IDF:  0.05742
+Word:jamie              
+TF-IDF:  0.05015
+Word:geoff              
+TF-IDF:  0.03701
+Word:accounting         
+TF-IDF:  0.02776
+Word:caldwell           
+TF-IDF:  0.02151
+Word:cpas               
+TF-IDF:  0.02151
+Word:sorge              
+TF-IDF:  0.02151
+Word:filing             
+TF-IDF:  0.01476
+Word:returns            
+TF-IDF:  0.01436
+Word:errors             
+TF-IDF:  0.01375
+Top words in document: Mediterranean
+
+Word:food               
+TF-IDF:  0.01723
+Word:restaurant         
+TF-IDF:  0.01037
+Word:greek              
+TF-IDF:  0.01005
+Word:gyro               
+TF-IDF:  0.00821
+Word:pita               
+TF-IDF:  0.0082
+Word:dinner             
+TF-IDF:  0.00817
+Word:view               
+TF-IDF:  0.00671
+Word:casbah             
+TF-IDF:  0.0067
+Word:salad              
+TF-IDF:  0.00662
+Word:delicious          
+TF-IDF:  0.0059
+Top words in document: Rugs
+
+Word:furniture          
+TF-IDF:  0.1232
+Word:affair             
+TF-IDF:  0.04928
+Word:model              
+TF-IDF:  0.02057
+Word:accessories                
+TF-IDF:  0.02019
+Word:pieces             
+TF-IDF:  0.0201
+Word:homes              
+TF-IDF:  0.01865
+Word:refurnishing               
+TF-IDF:  0.0101
+Word:modern/rustic/urban                
+TF-IDF:  0.0101
+Word:pieces-and         
+TF-IDF:  0.0101
+Word:lower-end          
+TF-IDF:  0.0101
+Top words in document: ImmigrationLaw
+
+Word:immigration                
+TF-IDF:  0.10751
+Word:google             
+TF-IDF:  0.05802
+Word:legal              
+TF-IDF:  0.05338
+Word:attorney           
+TF-IDF:  0.04596
+Word:robert             
+TF-IDF:  0.04471
+Word:coughlon           
+TF-IDF:  0.0409
+Word:secretary          
+TF-IDF:  0.03685
+Word:attorneys          
+TF-IDF:  0.03584
+Word:law                
+TF-IDF:  0.03444
+Word:drawn              
+TF-IDF:  0.03088
+Top words in document: HairLossCenters
+
+Word:braid              
+TF-IDF:  0.06426
+Word:braids             
+TF-IDF:  0.06209
+Word:hair               
+TF-IDF:  0.06167
+Word:flag               
+TF-IDF:  0.05203
+Word:braiding           
+TF-IDF:  0.03213
+Word:twists             
+TF-IDF:  0.0248
+Word:red                
+TF-IDF:  0.02389
+Word:salon              
+TF-IDF:  0.01932
+Word:witnessed          
+TF-IDF:  0.01779
+Word:scam               
+TF-IDF:  0.01779
+Top words in document: HomeTheatreInstallation
+
+Word:9sbziygdtlck6kmrtar_hw             
+TF-IDF:  0.12514
+Word:electrical         
+TF-IDF:  0.05331
+Word:burglar/fire               
+TF-IDF:  0.04171
+Word:dshe               
+TF-IDF:  0.04171
+Word:micor              
+TF-IDF:  0.03943
+Word:esitimate          
+TF-IDF:  0.03943
+Word:ronnie             
+TF-IDF:  0.03216
+Word:dennis             
+TF-IDF:  0.0314
+Word:hubbard            
+TF-IDF:  0.0314
+Word:installer          
+TF-IDF:  0.02949
+Top words in document: WeightLossCenters
+
+Word:swim               
+TF-IDF:  0.111
+Word:childcare          
+TF-IDF:  0.09095
+Word:multi-purpose              
+TF-IDF:  0.05067
+Word:gym                
+TF-IDF:  0.04976
+Word:gymnasium          
+TF-IDF:  0.04914
+Word:carpeted           
+TF-IDF:  0.04657
+Word:pool               
+TF-IDF:  0.04506
+Word:steadily           
+TF-IDF:  0.04191
+Word:seniors            
+TF-IDF:  0.03919
+Word:specialized                
+TF-IDF:  0.03861
+Top words in document: VitaminsSupplements
+
+Word:argan              
+TF-IDF:  0.04112
+Word:gnc                
+TF-IDF:  0.02742
+Word:maaaaybe           
+TF-IDF:  0.02742
+Word:consumers          
+TF-IDF:  0.01916
+Word:oil                
+TF-IDF:  0.01829
+Word:boost              
+TF-IDF:  0.01677
+Word:honor              
+TF-IDF:  0.01618
+Word:hi         
+TF-IDF:  0.0147
+Word:pre-judged         
+TF-IDF:  0.01371
+Word:4pidgwu8bgusge1pk926aa             
+TF-IDF:  0.01371
+Top words in document: TraditionalChineseMedicine
+
+Word:maggie             
+TF-IDF:  0.16836
+Word:otc                
+TF-IDF:  0.1057
+Word:migraine           
+TF-IDF:  0.09708
+Word:neurologist                
+TF-IDF:  0.09708
+Word:acupuncture                
+TF-IDF:  0.0938
+Word:migraines          
+TF-IDF:  0.09096
+Word:debilitating               
+TF-IDF:  0.08418
+Word:vitamin            
+TF-IDF:  0.08418
+Word:regimen            
+TF-IDF:  0.07905
+Word:med                
+TF-IDF:  0.06588
+Top words in document: ShavedIce
+
+Word:ice                
+TF-IDF:  0.09095
+Word:thrifty            
+TF-IDF:  0.07966
+Word:shaved             
+TF-IDF:  0.07508
+Word:water              
+TF-IDF:  0.05939
+Word:denise             
+TF-IDF:  0.0531
+Word:cream              
+TF-IDF:  0.0402
+Word:ourfi9c8s73i9whotapxdq             
+TF-IDF:  0.03086
+Word:liters             
+TF-IDF:  0.02947
+Word:alkaline           
+TF-IDF:  0.02947
+Word:lover              
+TF-IDF:  0.02871
+Top words in document: Southern
+
+Word:mert               
+TF-IDF:  0.02224
+Word:food               
+TF-IDF:  0.02071
+Word:cornbread          
+TF-IDF:  0.01643
+Word:soul               
+TF-IDF:  0.01546
+Word:collard            
+TF-IDF:  0.01334
+Word:fried              
+TF-IDF:  0.01326
+Word:chicken            
+TF-IDF:  0.01289
+Word:greens             
+TF-IDF:  0.01036
+Word:mac                
+TF-IDF:  0.00857
+Word:cheese             
+TF-IDF:  0.00819
+Top words in document: TicketSales
+
+Word:persone            
+TF-IDF:  0.12866
+Word:70/30              
+TF-IDF:  0.12866
+Word:tickets            
+TF-IDF:  0.12564
+Word:screamming         
+TF-IDF:  0.06433
+Word:sharaby            
+TF-IDF:  0.06433
+Word:angery             
+TF-IDF:  0.06433
+Word:jilted             
+TF-IDF:  0.05972
+Word:seamed             
+TF-IDF:  0.05646
+Word:condo              
+TF-IDF:  0.04306
+Word:cardinals          
+TF-IDF:  0.03936
+Top words in document: AutoUpholstery
+
+Word:fred               
+TF-IDF:  0.08518
+Word:leather            
+TF-IDF:  0.07943
+Word:couch              
+TF-IDF:  0.03872
+Word:repairing          
+TF-IDF:  0.02145
+Word:stools             
+TF-IDF:  0.01901
+Word:'like              
+TF-IDF:  0.01562
+Word:dawanashidi1cq7y9_togw             
+TF-IDF:  0.01562
+Word:viewable           
+TF-IDF:  0.01386
+Word:loaner             
+TF-IDF:  0.01344
+Word:reupholstered              
+TF-IDF:  0.01344
+Top words in document: Taiwanese
+
+Word:sushi              
+TF-IDF:  0.05196
+Word:chinese            
+TF-IDF:  0.02652
+Word:food               
+TF-IDF:  0.02154
+Word:msg                
+TF-IDF:  0.01914
+Word:tso                
+TF-IDF:  0.01736
+Word:pei                
+TF-IDF:  0.01736
+Word:delivery           
+TF-IDF:  0.01598
+Word:tai                
+TF-IDF:  0.01523
+Word:restaurant         
+TF-IDF:  0.01304
+Word:basil              
+TF-IDF:  0.01219
+Top words in document: CommercialRealEstate
+
+Word:compnay            
+TF-IDF:  0.08086
+Word:brokerage          
+TF-IDF:  0.08086
+Word:woe                
+TF-IDF:  0.08086
+Word:dina               
+TF-IDF:  0.08086
+Word:regus              
+TF-IDF:  0.08086
+Word:vehemently         
+TF-IDF:  0.08086
+Word:corporate          
+TF-IDF:  0.07633
+Word:handedly           
+TF-IDF:  0.07019
+Word:office             
+TF-IDF:  0.06785
+Word:lured              
+TF-IDF:  0.06782
+Top words in document: RoadsideAssistance
+
+Word:reynolds           
+TF-IDF:  0.125
+Word:reynold            
+TF-IDF:  0.06806
+Word:scooter            
+TF-IDF:  0.065
+Word:240                
+TF-IDF:  0.05856
+Word:urbana-champaign           
+TF-IDF:  0.05695
+Word:towing             
+TF-IDF:  0.0542
+Word:assholes           
+TF-IDF:  0.05301
+Word:patronizing                
+TF-IDF:  0.0447
+Word:papa               
+TF-IDF:  0.04351
+Word:car                
+TF-IDF:  0.04279
+Top words in document: PoolHotTubService
+
+Word:brandenburg                
+TF-IDF:  0.07715
+Word:pool               
+TF-IDF:  0.0478
+Word:contractor         
+TF-IDF:  0.03021
+Word:dave               
+TF-IDF:  0.02677
+Word:robert             
+TF-IDF:  0.02108
+Word:hardscape          
+TF-IDF:  0.01929
+Word:elucidated         
+TF-IDF:  0.01929
+Word:brandenberg                
+TF-IDF:  0.01929
+Word:unequivocally              
+TF-IDF:  0.01929
+Word:monsoons           
+TF-IDF:  0.01929
+Top words in document: AppliancesRepair
+
+Word:vacuum             
+TF-IDF:  0.0339
+Word:repair             
+TF-IDF:  0.02413
+Word:vac                
+TF-IDF:  0.02338
+Word:appliance          
+TF-IDF:  0.01802
+Word:dyson              
+TF-IDF:  0.01173
+Word:vacuums            
+TF-IDF:  0.01148
+Word:miele              
+TF-IDF:  0.01057
+Word:sewing             
+TF-IDF:  0.01057
+Word:sew                
+TF-IDF:  0.00978
+Word:warranty           
+TF-IDF:  0.0097
+Top words in document: Salvadoran
+
+Word:pupusas            
+TF-IDF:  0.07935
+Word:papusas            
+TF-IDF:  0.02232
+Word:pupusa             
+TF-IDF:  0.02232
+Word:salvadorian                
+TF-IDF:  0.02232
+Word:food               
+TF-IDF:  0.02037
+Word:horchata           
+TF-IDF:  0.01799
+Word:beans              
+TF-IDF:  0.01671
+Word:salvadoran         
+TF-IDF:  0.01611
+Word:el         
+TF-IDF:  0.01474
+Word:salvador           
+TF-IDF:  0.0124
+Top words in document: MassMedia
+
+Word:observer           
+TF-IDF:  0.03601
+Word:paper              
+TF-IDF:  0.02325
+Word:disturber          
+TF-IDF:  0.01995
+Word:abc15              
+TF-IDF:  0.01995
+Word:littering          
+TF-IDF:  0.01995
+Word:charter            
+TF-IDF:  0.01972
+Word:news               
+TF-IDF:  0.01663
+Word:rag                
+TF-IDF:  0.01275
+Word:subscription               
+TF-IDF:  0.01255
+Word:abc                
+TF-IDF:  0.01057
+Top words in document: Taxis
+
+Word:cab                
+TF-IDF:  0.13427
+Word:union              
+TF-IDF:  0.02602
+Word:dispatcher         
+TF-IDF:  0.02185
+Word:yellow             
+TF-IDF:  0.02149
+Word:airport            
+TF-IDF:  0.02118
+Word:taxi               
+TF-IDF:  0.01875
+Word:dispatch           
+TF-IDF:  0.01818
+Word:driver             
+TF-IDF:  0.01745
+Word:ride               
+TF-IDF:  0.01403
+Word:rates              
+TF-IDF:  0.01219
+Top words in document: HotDogs
+
+Word:sliders            
+TF-IDF:  0.02568
+Word:fries              
+TF-IDF:  0.02219
+Word:chicago            
+TF-IDF:  0.02135
+Word:beer               
+TF-IDF:  0.02005
+Word:dogs               
+TF-IDF:  0.01973
+Word:dog                
+TF-IDF:  0.01895
+Word:hot                
+TF-IDF:  0.0123
+Word:cheese             
+TF-IDF:  0.01225
+Word:food               
+TF-IDF:  0.01143
+Word:burger             
+TF-IDF:  0.01076
+Top words in document: Adult
+
+Word:i-17               
+TF-IDF:  0.04578
+Word:castle             
+TF-IDF:  0.02247
+Word:toys               
+TF-IDF:  0.02172
+Word:adult              
+TF-IDF:  0.01942
+Word:megastores         
+TF-IDF:  0.01758
+Word:extravagantly              
+TF-IDF:  0.01758
+Word:pobb4vfc5yrifk7ou0unag             
+TF-IDF:  0.01758
+Word:fascinations               
+TF-IDF:  0.01758
+Word:girlfrie           
+TF-IDF:  0.01758
+Word:skeddadle          
+TF-IDF:  0.01758
+Top words in document: Mags
+
+Word:books              
+TF-IDF:  0.02809
+Word:comic              
+TF-IDF:  0.02164
+Word:comics             
+TF-IDF:  0.01969
+Word:store              
+TF-IDF:  0.012
+Word:book               
+TF-IDF:  0.0119
+Word:bookstore          
+TF-IDF:  0.00778
+Word:selection          
+TF-IDF:  0.0069
+Word:samurai            
+TF-IDF:  0.00675
+Word:movies             
+TF-IDF:  0.00596
+Word:barnes             
+TF-IDF:  0.00454
+Top words in document: SecurityServices
+
+Word:stagecoach         
+TF-IDF:  0.12569
+Word:locksmith          
+TF-IDF:  0.05125
+Word:locks              
+TF-IDF:  0.04449
+Word:batteries          
+TF-IDF:  0.04003
+Word:safe               
+TF-IDF:  0.03397
+Word:wetting            
+TF-IDF:  0.03142
+Word:suckky             
+TF-IDF:  0.03142
+Word:doorknob           
+TF-IDF:  0.03142
+Word:buggy              
+TF-IDF:  0.03142
+Word:landon             
+TF-IDF:  0.03142
+Top words in document: Trusts
+
+Word:michael            
+TF-IDF:  0.11101
+Word:estate             
+TF-IDF:  0.07105
+Word:wills              
+TF-IDF:  0.05652
+Word:reconnected                
+TF-IDF:  0.0533
+Word:micheal            
+TF-IDF:  0.0533
+Word:dynamic            
+TF-IDF:  0.05195
+Word:understanding              
+TF-IDF:  0.04644
+Word:receptive          
+TF-IDF:  0.04592
+Word:tucker             
+TF-IDF:  0.04514
+Word:documents          
+TF-IDF:  0.04372
+Top words in document: BodyShops
+
+Word:car                
+TF-IDF:  0.03528
+Word:collision          
+TF-IDF:  0.02939
+Word:body               
+TF-IDF:  0.02082
+Word:bumper             
+TF-IDF:  0.01561
+Word:ultra              
+TF-IDF:  0.01167
+Word:auto               
+TF-IDF:  0.01162
+Word:repairs            
+TF-IDF:  0.01091
+Word:steve              
+TF-IDF:  0.01084
+Word:repair             
+TF-IDF:  0.01048
+Word:paint              
+TF-IDF:  0.00963
+Top words in document: Fertility
+
+Word:dr         
+TF-IDF:  0.03418
+Word:o'sullivan         
+TF-IDF:  0.02447
+Word:nelson             
+TF-IDF:  0.02296
+Word:botox              
+TF-IDF:  0.01829
+Word:doctor             
+TF-IDF:  0.01526
+Word:appointment                
+TF-IDF:  0.01423
+Word:pregnancy          
+TF-IDF:  0.0134
+Word:injections         
+TF-IDF:  0.01306
+Word:moffitt            
+TF-IDF:  0.01281
+Word:julie              
+TF-IDF:  0.01262
+Top words in document: BanksCreditUnions
+
+Word:bank               
+TF-IDF:  0.03429
+Word:banking            
+TF-IDF:  0.02548
+Word:account            
+TF-IDF:  0.02436
+Word:branch             
+TF-IDF:  0.01937
+Word:teller             
+TF-IDF:  0.01673
+Word:banks              
+TF-IDF:  0.01558
+Word:deposit            
+TF-IDF:  0.01436
+Word:tellers            
+TF-IDF:  0.01389
+Word:bofa               
+TF-IDF:  0.0119
+Word:union              
+TF-IDF:  0.00987
+Top words in document: Vegetarian
+
+Word:vegan              
+TF-IDF:  0.01761
+Word:pzg0xmamtxfs6fdnubf41g             
+TF-IDF:  0.01618
+Word:storm              
+TF-IDF:  0.01569
+Word:milkshakes         
+TF-IDF:  0.01421
+Word:menu               
+TF-IDF:  0.01233
+Word:food               
+TF-IDF:  0.01217
+Word:coffee             
+TF-IDF:  0.0106
+Word:milkshake          
+TF-IDF:  0.00935
+Word:vegetarian         
+TF-IDF:  0.00934
+Word:brunch             
+TF-IDF:  0.00895
+Top words in document: PaintStores
+
+Word:paint              
+TF-IDF:  0.13813
+Word:sherwin            
+TF-IDF:  0.05717
+Word:carpenter          
+TF-IDF:  0.03811
+Word:rig                
+TF-IDF:  0.03434
+Word:color              
+TF-IDF:  0.02961
+Word:williams           
+TF-IDF:  0.02698
+Word:match              
+TF-IDF:  0.02531
+Word:suituation         
+TF-IDF:  0.01906
+Word:dunn-edwards               
+TF-IDF:  0.01906
+Word:p-o                
+TF-IDF:  0.01906
+Top words in document: Cheesesteaks
+
+Word:philly             
+TF-IDF:  0.06869
+Word:steak              
+TF-IDF:  0.03312
+Word:cheese             
+TF-IDF:  0.02952
+Word:cheesesteaks               
+TF-IDF:  0.02831
+Word:cheesesteak                
+TF-IDF:  0.02753
+Word:steaks             
+TF-IDF:  0.01934
+Word:meat               
+TF-IDF:  0.01762
+Word:food               
+TF-IDF:  0.01208
+Word:sandwich           
+TF-IDF:  0.01132
+Word:gyros              
+TF-IDF:  0.0089
+Top words in document: Paintball
+
+Word:paintball          
+TF-IDF:  0.37541
+Word:airsoft            
+TF-IDF:  0.09385
+Word:laidback           
+TF-IDF:  0.08148
+Word:guns               
+TF-IDF:  0.05672
+Word:gun                
+TF-IDF:  0.05103
+Word:honesty            
+TF-IDF:  0.04549
+Word:sons               
+TF-IDF:  0.04096
+Word:gear               
+TF-IDF:  0.03977
+Word:greatly            
+TF-IDF:  0.03921
+Word:traveling          
+TF-IDF:  0.0359
+Top words in document: Steakhouses
+
+Word:steak              
+TF-IDF:  0.03283
+Word:fried              
+TF-IDF:  0.01955
+Word:chicken            
+TF-IDF:  0.01737
+Word:food               
+TF-IDF:  0.01524
+Word:outback            
+TF-IDF:  0.01054
+Word:texaz              
+TF-IDF:  0.00997
+Word:rib                
+TF-IDF:  0.00892
+Word:steaks             
+TF-IDF:  0.00886
+Word:meal               
+TF-IDF:  0.00826
+Word:salad              
+TF-IDF:  0.00806
+Top words in document: ScreenPrinting
+
+Word:james              
+TF-IDF:  0.03781
+Word:11/19              
+TF-IDF:  0.03523
+Word:11/13              
+TF-IDF:  0.03523
+Word:wedneday           
+TF-IDF:  0.03523
+Word:11/22              
+TF-IDF:  0.03523
+Word:12/2               
+TF-IDF:  0.03523
+Word:realty             
+TF-IDF:  0.03365
+Word:11/27              
+TF-IDF:  0.03127
+Word:specs              
+TF-IDF:  0.02948
+Word:realtor            
+TF-IDF:  0.02874
+Top words in document: Fashion
+
+Word:bike               
+TF-IDF:  0.02549
+Word:slippery           
+TF-IDF:  0.01422
+Word:shoes              
+TF-IDF:  0.01227
+Word:pig                
+TF-IDF:  0.01189
+Word:shop               
+TF-IDF:  0.01088
+Word:bikes              
+TF-IDF:  0.01081
+Word:shoe               
+TF-IDF:  0.0089
+Word:store              
+TF-IDF:  0.00791
+Word:boots              
+TF-IDF:  0.00569
+Word:42ai9wcfpe2hz_aadgxi9q             
+TF-IDF:  0.0054
+Top words in document: SportsClubs
+
+Word:gym                
+TF-IDF:  0.03209
+Word:fitness            
+TF-IDF:  0.02497
+Word:ellipticals                
+TF-IDF:  0.01353
+Word:workout            
+TF-IDF:  0.01307
+Word:equipment          
+TF-IDF:  0.01136
+Word:contract           
+TF-IDF:  0.01054
+Word:membership         
+TF-IDF:  0.01038
+Word:locker             
+TF-IDF:  0.01022
+Word:la         
+TF-IDF:  0.00957
+Word:classes            
+TF-IDF:  0.00913
+Top words in document: Cinema
+
+Word:theater            
+TF-IDF:  0.06627
+Word:movie              
+TF-IDF:  0.03867
+Word:theaters           
+TF-IDF:  0.03256
+Word:films              
+TF-IDF:  0.03243
+Word:movies             
+TF-IDF:  0.02224
+Word:popcorn            
+TF-IDF:  0.02185
+Word:indie              
+TF-IDF:  0.01275
+Word:concessions                
+TF-IDF:  0.0126
+Word:seats              
+TF-IDF:  0.01153
+Word:theatres           
+TF-IDF:  0.00971
+Top words in document: FoodBanks
+
+Word:volunteering               
+TF-IDF:  0.16328
+Word:deserving          
+TF-IDF:  0.12439
+Word:joining            
+TF-IDF:  0.11063
+Word:mission            
+TF-IDF:  0.10699
+Word:november           
+TF-IDF:  0.09121
+Word:bank               
+TF-IDF:  0.07214
+Word:1st                
+TF-IDF:  0.06668
+Word:organization               
+TF-IDF:  0.06591
+Word:opening            
+TF-IDF:  0.06369
+Word:ways               
+TF-IDF:  0.06298
+Top words in document: OralSurgeons
+
+Word:dr         
+TF-IDF:  0.04675
+Word:dentist            
+TF-IDF:  0.04069
+Word:goldenstein                
+TF-IDF:  0.02731
+Word:bigos              
+TF-IDF:  0.01969
+Word:surgery            
+TF-IDF:  0.01909
+Word:teeth              
+TF-IDF:  0.01817
+Word:dentistry          
+TF-IDF:  0.01794
+Word:office             
+TF-IDF:  0.01777
+Word:oral               
+TF-IDF:  0.01636
+Word:wisdom             
+TF-IDF:  0.01429
+Top words in document: Grocery
+
+Word:grocery            
+TF-IDF:  0.00925
+Word:produce            
+TF-IDF:  0.00908
+Word:store              
+TF-IDF:  0.00823
+Word:food               
+TF-IDF:  0.00732
+Word:lgo                
+TF-IDF:  0.00725
+Word:fresh              
+TF-IDF:  0.00551
+Word:foods              
+TF-IDF:  0.00547
+Word:italian            
+TF-IDF:  0.00505
+Word:deli               
+TF-IDF:  0.00441
+Word:groceries          
+TF-IDF:  0.00439
+Top words in document: ElectronicsRepair
+
+Word:dan                
+TF-IDF:  0.04481
+Word:cellular           
+TF-IDF:  0.03707
+Word:screen             
+TF-IDF:  0.02584
+Word:phone              
+TF-IDF:  0.02561
+Word:repair             
+TF-IDF:  0.01789
+Word:sun                
+TF-IDF:  0.01438
+Word:4anylawqwvzh5bfpol9czq             
+TF-IDF:  0.0136
+Word:cracked            
+TF-IDF:  0.01352
+Word:fixed              
+TF-IDF:  0.01297
+Word:iphone             
+TF-IDF:  0.01267
+Top words in document: IrishPub
+
+Word:bar                
+TF-IDF:  0.04343
+Word:darts              
+TF-IDF:  0.04143
+Word:ramp               
+TF-IDF:  0.03951
+Word:jukebox            
+TF-IDF:  0.03894
+Word:undue              
+TF-IDF:  0.02791
+Word:nicotine           
+TF-IDF:  0.02791
+Word:thunderdome                
+TF-IDF:  0.02791
+Word:hardship           
+TF-IDF:  0.02791
+Word:blaster            
+TF-IDF:  0.02791
+Word:grotty             
+TF-IDF:  0.02791
+Top words in document: AutoSecurity
+
+Word:stereo             
+TF-IDF:  0.07274
+Word:ryan               
+TF-IDF:  0.04006
+Word:install            
+TF-IDF:  0.03747
+Word:sun                
+TF-IDF:  0.02559
+Word:audio              
+TF-IDF:  0.02549
+Word:car                
+TF-IDF:  0.01688
+Word:valley             
+TF-IDF:  0.01499
+Word:xi_ig7x6bcdltj57bkuoqq             
+TF-IDF:  0.01479
+Word:installed          
+TF-IDF:  0.01464
+Word:speakers           
+TF-IDF:  0.01368
+Top words in document: Movers
+
+Word:movers             
+TF-IDF:  0.05376
+Word:mtd                
+TF-IDF:  0.03398
+Word:bus                
+TF-IDF:  0.02723
+Word:buses              
+TF-IDF:  0.01746
+Word:transportation             
+TF-IDF:  0.01219
+Word:company            
+TF-IDF:  0.01163
+Word:dependent          
+TF-IDF:  0.01133
+Word:observance         
+TF-IDF:  0.01133
+Word:u-pack             
+TF-IDF:  0.01133
+Word:graebel            
+TF-IDF:  0.01133
+Top words in document: HomeAutomation
+
+Word:twc                
+TF-IDF:  0.05725
+Word:cable              
+TF-IDF:  0.03879
+Word:warner             
+TF-IDF:  0.02795
+Word:internet           
+TF-IDF:  0.0138
+Word:vktmsweaathimxgo9ic_og             
+TF-IDF:  0.01369
+Word:router             
+TF-IDF:  0.01367
+Word:cbs                
+TF-IDF:  0.012
+Word:monopoly           
+TF-IDF:  0.01052
+Word:worst              
+TF-IDF:  0.00985
+Word:company            
+TF-IDF:  0.00779
+Top words in document: InternalMedicine
+
+Word:doctor             
+TF-IDF:  0.05773
+Word:dr         
+TF-IDF:  0.05422
+Word:millstein          
+TF-IDF:  0.04847
+Word:drury              
+TF-IDF:  0.02315
+Word:pcp                
+TF-IDF:  0.02226
+Word:joshua             
+TF-IDF:  0.0193
+Word:drug               
+TF-IDF:  0.01425
+Word:insurance          
+TF-IDF:  0.0139
+Word:seeing             
+TF-IDF:  0.0126
+Word:szwp-ddcbpw7azscqksww              
+TF-IDF:  0.01212
+Top words in document: HairSalons
+
+Word:hair               
+TF-IDF:  0.0507
+Word:salon              
+TF-IDF:  0.04018
+Word:stylist            
+TF-IDF:  0.02398
+Word:haircut            
+TF-IDF:  0.02304
+Word:cut                
+TF-IDF:  0.01852
+Word:color              
+TF-IDF:  0.0102
+Word:stylists           
+TF-IDF:  0.01011
+Word:haircuts           
+TF-IDF:  0.00724
+Word:appointment                
+TF-IDF:  0.00691
+Word:cuts               
+TF-IDF:  0.00559
+Top words in document: PrintMedia
+
+Word:observer           
+TF-IDF:  0.0673
+Word:paper              
+TF-IDF:  0.0409
+Word:disturber          
+TF-IDF:  0.03727
+Word:littering          
+TF-IDF:  0.03727
+Word:rag                
+TF-IDF:  0.02382
+Word:subscription               
+TF-IDF:  0.02345
+Word:newspaper          
+TF-IDF:  0.01787
+Word:news               
+TF-IDF:  0.01727
+Word:papers             
+TF-IDF:  0.01691
+Word:charlotte          
+TF-IDF:  0.01527
+Top words in document: Parks
+
+Word:gardens            
+TF-IDF:  0.02343
+Word:desert             
+TF-IDF:  0.02175
+Word:garden             
+TF-IDF:  0.02136
+Word:botanical          
+TF-IDF:  0.02002
+Word:chihuly            
+TF-IDF:  0.01941
+Word:exhibit            
+TF-IDF:  0.01914
+Word:plants             
+TF-IDF:  0.01732
+Word:trails             
+TF-IDF:  0.01495
+Word:dbg                
+TF-IDF:  0.01425
+Word:cacti              
+TF-IDF:  0.01376
+Top words in document: ComfortFood
+
+Word:soda               
+TF-IDF:  0.02444
+Word:cream              
+TF-IDF:  0.02095
+Word:ice                
+TF-IDF:  0.01883
+Word:vintage            
+TF-IDF:  0.01611
+Word:food               
+TF-IDF:  0.01216
+Word:fountain           
+TF-IDF:  0.01056
+Word:sodas              
+TF-IDF:  0.00917
+Word:antique            
+TF-IDF:  0.00841
+Word:macalpine          
+TF-IDF:  0.00825
+Word:antiques           
+TF-IDF:  0.00818
+Top words in document: PartyEventPlanning
+
+Word:party              
+TF-IDF:  0.03102
+Word:murder             
+TF-IDF:  0.02151
+Word:catering           
+TF-IDF:  0.01755
+Word:caterer            
+TF-IDF:  0.01741
+Word:wedding            
+TF-IDF:  0.01657
+Word:productions                
+TF-IDF:  0.01518
+Word:caterers           
+TF-IDF:  0.01394
+Word:arrangement                
+TF-IDF:  0.01277
+Word:mystery            
+TF-IDF:  0.0114
+Word:guests             
+TF-IDF:  0.01087
+Top words in document: Japanese
+
+Word:sushi              
+TF-IDF:  0.05414
+Word:ramen              
+TF-IDF:  0.01575
+Word:food               
+TF-IDF:  0.01438
+Word:roll               
+TF-IDF:  0.00989
+Word:japanese           
+TF-IDF:  0.00854
+Word:menu               
+TF-IDF:  0.00813
+Word:hibachi            
+TF-IDF:  0.00792
+Word:rolls              
+TF-IDF:  0.00752
+Word:noodles            
+TF-IDF:  0.00742
+Word:restaurant         
+TF-IDF:  0.00712
+Top words in document: ScreenPrintingTShirtPrinting
+
+Word:printing           
+TF-IDF:  0.07181
+Word:trophies           
+TF-IDF:  0.0673
+Word:turnaround         
+TF-IDF:  0.06615
+Word:uniforms           
+TF-IDF:  0.05053
+Word:graduation         
+TF-IDF:  0.04032
+Word:cost-efficient             
+TF-IDF:  0.03792
+Word:copy               
+TF-IDF:  0.03791
+Word:competition                
+TF-IDF:  0.0309
+Word:flyers             
+TF-IDF:  0.0302
+Word:brochure           
+TF-IDF:  0.02954
+Top words in document: LeatherGoods
+
+Word:leather            
+TF-IDF:  0.15079
+Word:seamstress         
+TF-IDF:  0.12409
+Word:lampe              
+TF-IDF:  0.0845
+Word:weissburgh         
+TF-IDF:  0.0845
+Word:berger             
+TF-IDF:  0.07415
+Word:custom-made                
+TF-IDF:  0.07082
+Word:roberta            
+TF-IDF:  0.07082
+Word:braiding           
+TF-IDF:  0.0681
+Word:differ             
+TF-IDF:  0.0681
+Word:fragrance          
+TF-IDF:  0.0658
+Top words in document: ChildrensClothing
+
+Word:bumbo              
+TF-IDF:  0.04225
+Word:bouncer            
+TF-IDF:  0.02888
+Word:clothes            
+TF-IDF:  0.02687
+Word:child              
+TF-IDF:  0.02376
+Word:hrid:8cycftibywz9x9z841mq_g                
+TF-IDF:  0.02112
+Word:snaked             
+TF-IDF:  0.02112
+Word:kidtokid           
+TF-IDF:  0.02112
+Word:onesie             
+TF-IDF:  0.02112
+Word:resonded           
+TF-IDF:  0.02112
+Word:wispered           
+TF-IDF:  0.02112
+Top words in document: FuneralServicesCemeteries
+
+Word:funeral            
+TF-IDF:  0.08333
+Word:spencer            
+TF-IDF:  0.03311
+Word:b_zfdnijowcohwjnfzzwkw             
+TF-IDF:  0.03311
+Word:cemetery           
+TF-IDF:  0.03074
+Word:dignified          
+TF-IDF:  0.02207
+Word:obituary           
+TF-IDF:  0.02207
+Word:mortuary           
+TF-IDF:  0.02207
+Word:gram               
+TF-IDF:  0.0158
+Word:julia              
+TF-IDF:  0.01542
+Word:grief              
+TF-IDF:  0.01373
+Top words in document: EmbroideryCrochet
+
+Word:2month             
+TF-IDF:  0.20219
+Word:bunched            
+TF-IDF:  0.20219
+Word:embroidery         
+TF-IDF:  0.18771
+Word:embroidered                
+TF-IDF:  0.16946
+Word:so-called          
+TF-IDF:  0.15744
+Word:shirt              
+TF-IDF:  0.14941
+Word:wear               
+TF-IDF:  0.05656
+Word:properly           
+TF-IDF:  0.05596
+Word:desk               
+TF-IDF:  0.04705
+Word:sat                
+TF-IDF:  0.04437
+Top words in document: SmogCheckStations
+
+Word:retro-charged              
+TF-IDF:  0.11573
+Word:dependable         
+TF-IDF:  0.07203
+Word:bob                
+TF-IDF:  0.05769
+Word:labor              
+TF-IDF:  0.05432
+Word:car                
+TF-IDF:  0.05079
+Word:showing            
+TF-IDF:  0.04578
+Word:reliable           
+TF-IDF:  0.04578
+Word:explaining         
+TF-IDF:  0.04391
+Word:originally         
+TF-IDF:  0.04147
+Word:99         
+TF-IDF:  0.04034
+Top words in document: Dentists
+
+Word:dentist            
+TF-IDF:  0.0556
+Word:dr         
+TF-IDF:  0.03872
+Word:dental             
+TF-IDF:  0.03132
+Word:teeth              
+TF-IDF:  0.01603
+Word:office             
+TF-IDF:  0.0135
+Word:insurance          
+TF-IDF:  0.01182
+Word:tooth              
+TF-IDF:  0.01001
+Word:dameron            
+TF-IDF:  0.0085
+Word:appointment                
+TF-IDF:  0.00842
+Word:hygienist          
+TF-IDF:  0.00768
+Top words in document: ChickenWings
+
+Word:pizza              
+TF-IDF:  0.03664
+Word:hooters            
+TF-IDF:  0.01783
+Word:wings              
+TF-IDF:  0.01375
+Word:hut                
+TF-IDF:  0.00999
+Word:food               
+TF-IDF:  0.00955
+Word:delivery           
+TF-IDF:  0.00739
+Word:order              
+TF-IDF:  0.00706
+Word:burgers            
+TF-IDF:  0.00699
+Word:burger             
+TF-IDF:  0.00637
+Word:bar                
+TF-IDF:  0.0057
+Top words in document: FishChips
+
+Word:shrimp             
+TF-IDF:  0.05643
+Word:fish               
+TF-IDF:  0.05604
+Word:ceviche            
+TF-IDF:  0.05477
+Word:tacos              
+TF-IDF:  0.05021
+Word:seafood            
+TF-IDF:  0.03858
+Word:tostada            
+TF-IDF:  0.02543
+Word:tostadas           
+TF-IDF:  0.02543
+Word:ensenada           
+TF-IDF:  0.02411
+Word:salsa              
+TF-IDF:  0.02401
+Word:paella             
+TF-IDF:  0.01907
+Top words in document: Reiki
+
+Word:tumbled            
+TF-IDF:  0.05029
+Word:stones             
+TF-IDF:  0.03894
+Word:moonstones         
+TF-IDF:  0.03353
+Word:browsing           
+TF-IDF:  0.03078
+Word:dormont            
+TF-IDF:  0.02717
+Word:cat                
+TF-IDF:  0.01885
+Word:baloo              
+TF-IDF:  0.01676
+Word:carters            
+TF-IDF:  0.01676
+Word:shopkeepers                
+TF-IDF:  0.01676
+Word:curiosities                
+TF-IDF:  0.01676
+Top words in document: FabricStores
+
+Word:fabric             
+TF-IDF:  0.04763
+Word:fabrics            
+TF-IDF:  0.03516
+Word:danese             
+TF-IDF:  0.02695
+Word:dress              
+TF-IDF:  0.01801
+Word:bernina            
+TF-IDF:  0.01659
+Word:sewing             
+TF-IDF:  0.01518
+Word:sas                
+TF-IDF:  0.01451
+Word:yarn               
+TF-IDF:  0.0126
+Word:alterations                
+TF-IDF:  0.01172
+Word:scylvia            
+TF-IDF:  0.01037
+Top words in document: Hiking
+
+Word:trails             
+TF-IDF:  0.0638
+Word:lake               
+TF-IDF:  0.02935
+Word:nature             
+TF-IDF:  0.01961
+Word:greenway           
+TF-IDF:  0.0181
+Word:hiking             
+TF-IDF:  0.01696
+Word:rio                
+TF-IDF:  0.01659
+Word:barn               
+TF-IDF:  0.01653
+Word:preserve           
+TF-IDF:  0.01407
+Word:picnic             
+TF-IDF:  0.01305
+Word:salado             
+TF-IDF:  0.01274
+Top words in document: KitchenBath
+
+Word:rh         
+TF-IDF:  0.04917
+Word:all-clad           
+TF-IDF:  0.02933
+Word:izrwj5f_3h0oic3sidroea             
+TF-IDF:  0.02574
+Word:gregory            
+TF-IDF:  0.02459
+Word:pottery            
+TF-IDF:  0.02005
+Word:barn               
+TF-IDF:  0.01767
+Word:products           
+TF-IDF:  0.01633
+Word:eikozpecjg1b_r8g9laaxg             
+TF-IDF:  0.01467
+Word:assigns            
+TF-IDF:  0.01467
+Word:matchable          
+TF-IDF:  0.01362
+Top words in document: Pubs
+
+Word:beer               
+TF-IDF:  0.01757
+Word:food               
+TF-IDF:  0.01384
+Word:bar                
+TF-IDF:  0.01131
+Word:pub                
+TF-IDF:  0.01075
+Word:burger             
+TF-IDF:  0.009
+Word:beers              
+TF-IDF:  0.00838
+Word:fries              
+TF-IDF:  0.0075
+Word:irish              
+TF-IDF:  0.00745
+Word:burgers            
+TF-IDF:  0.00575
+Word:fish               
+TF-IDF:  0.0056
+Top words in document: TattooRemoval
+
+Word:laris              
+TF-IDF:  0.07315
+Word:skin               
+TF-IDF:  0.05701
+Word:dr         
+TF-IDF:  0.03515
+Word:blanca             
+TF-IDF:  0.01951
+Word:removal            
+TF-IDF:  0.0178
+Word:tattoo             
+TF-IDF:  0.01701
+Word:filler             
+TF-IDF:  0.01558
+Word:laser              
+TF-IDF:  0.01499
+Word:lift               
+TF-IDF:  0.01482
+Word:picosure           
+TF-IDF:  0.01463
+Top words in document: Mattresses
+
+Word:mattress           
+TF-IDF:  0.07868
+Word:furniture          
+TF-IDF:  0.02258
+Word:bed                
+TF-IDF:  0.02061
+Word:delivery           
+TF-IDF:  0.01814
+Word:copenhagen         
+TF-IDF:  0.01283
+Word:gabrielle          
+TF-IDF:  0.01093
+Word:mattresses         
+TF-IDF:  0.01057
+Word:colin              
+TF-IDF:  0.01015
+Word:salesman           
+TF-IDF:  0.00954
+Word:sales              
+TF-IDF:  0.00877
+Top words in document: RegistrationServices
+
+Word:din                
+TF-IDF:  0.10412
+Word:titles             
+TF-IDF:  0.08839
+Word:incorrect          
+TF-IDF:  0.06949
+Word:integrity          
+TF-IDF:  0.06535
+Word:drawback           
+TF-IDF:  0.06427
+Word:transaction                
+TF-IDF:  0.05904
+Word:david              
+TF-IDF:  0.05431
+Word:r          
+TF-IDF:  0.05325
+Word:equally            
+TF-IDF:  0.0491
+Word:regret             
+TF-IDF:  0.04123
+Top words in document: LatinAmerican
+
+Word:peruvian           
+TF-IDF:  0.071
+Word:feria              
+TF-IDF:  0.0262
+Word:food               
+TF-IDF:  0.02182
+Word:empanadas          
+TF-IDF:  0.0202
+Word:limeade            
+TF-IDF:  0.01705
+Word:vegetarian         
+TF-IDF:  0.01614
+Word:salad              
+TF-IDF:  0.01605
+Word:laferia            
+TF-IDF:  0.01572
+Word:empanada           
+TF-IDF:  0.01365
+Word:fresh              
+TF-IDF:  0.01209
+Top words in document: PetStores
+
+Word:fish               
+TF-IDF:  0.08918
+Word:cichlids           
+TF-IDF:  0.02475
+Word:freshwater         
+TF-IDF:  0.02235
+Word:store              
+TF-IDF:  0.02087
+Word:plants             
+TF-IDF:  0.02086
+Word:saltwater          
+TF-IDF:  0.01862
+Word:tanks              
+TF-IDF:  0.01819
+Word:fishes             
+TF-IDF:  0.01678
+Word:aquatouch          
+TF-IDF:  0.0165
+Word:tropical           
+TF-IDF:  0.01631
+Top words in document: LocalFishStores
+
+Word:fish               
+TF-IDF:  0.08918
+Word:cichlids           
+TF-IDF:  0.02475
+Word:freshwater         
+TF-IDF:  0.02235
+Word:store              
+TF-IDF:  0.02087
+Word:plants             
+TF-IDF:  0.02086
+Word:saltwater          
+TF-IDF:  0.01862
+Word:tanks              
+TF-IDF:  0.01819
+Word:fishes             
+TF-IDF:  0.01678
+Word:aquatouch          
+TF-IDF:  0.0165
+Word:tropical           
+TF-IDF:  0.01631
+Top words in document: PediatricDentists
+
+Word:dentist            
+TF-IDF:  0.06831
+Word:dental             
+TF-IDF:  0.04554
+Word:martik             
+TF-IDF:  0.02939
+Word:dr         
+TF-IDF:  0.02754
+Word:office             
+TF-IDF:  0.02131
+Word:rick               
+TF-IDF:  0.0197
+Word:children           
+TF-IDF:  0.01689
+Word:meyers             
+TF-IDF:  0.01528
+Word:wee                
+TF-IDF:  0.01381
+Word:cavities           
+TF-IDF:  0.01305
+Top words in document: Surfing
+
+Word:wallerbears                
+TF-IDF:  0.08546
+Word:skateboards                
+TF-IDF:  0.08546
+Word:skate              
+TF-IDF:  0.06588
+Word:surf               
+TF-IDF:  0.05824
+Word:mcmullen           
+TF-IDF:  0.04273
+Word:sanuks             
+TF-IDF:  0.04273
+Word:snowboard          
+TF-IDF:  0.04039
+Word:flips              
+TF-IDF:  0.03858
+Word:surfer             
+TF-IDF:  0.03858
+Word:reef               
+TF-IDF:  0.03709
+Top words in document: Carpeting
+
+Word:rugs               
+TF-IDF:  0.06128
+Word:tile               
+TF-IDF:  0.03461
+Word:flooring           
+TF-IDF:  0.02987
+Word:carpet             
+TF-IDF:  0.02325
+Word:padding            
+TF-IDF:  0.01901
+Word:baker              
+TF-IDF:  0.0176
+Word:wood               
+TF-IDF:  0.01607
+Word:vinyl              
+TF-IDF:  0.01604
+Word:commit             
+TF-IDF:  0.01604
+Word:rug                
+TF-IDF:  0.01582
+Top words in document: RVParks
+
+Word:koa                
+TF-IDF:  0.05479
+Word:campground         
+TF-IDF:  0.04862
+Word:tivo               
+TF-IDF:  0.03653
+Word:highway            
+TF-IDF:  0.03373
+Word:wifi               
+TF-IDF:  0.02276
+Word:grass              
+TF-IDF:  0.02124
+Word:firewall           
+TF-IDF:  0.01826
+Word:kamping            
+TF-IDF:  0.01826
+Word:kabin              
+TF-IDF:  0.01826
+Word:mowing             
+TF-IDF:  0.01826
+Top words in document: PrintingServices
+
+Word:fedex              
+TF-IDF:  0.02696
+Word:ups                
+TF-IDF:  0.025
+Word:printing           
+TF-IDF:  0.01839
+Word:package            
+TF-IDF:  0.01069
+Word:shipping           
+TF-IDF:  0.0099
+Word:store              
+TF-IDF:  0.00975
+Word:alphagraphics              
+TF-IDF:  0.00963
+Word:ship               
+TF-IDF:  0.00927
+Word:printed            
+TF-IDF:  0.00824
+Word:print              
+TF-IDF:  0.00757
+Top words in document: TapasBars
+
+Word:luna               
+TF-IDF:  0.04314
+Word:tapas              
+TF-IDF:  0.0298
+Word:bossa              
+TF-IDF:  0.02645
+Word:nova               
+TF-IDF:  0.01755
+Word:menu               
+TF-IDF:  0.01333
+Word:food               
+TF-IDF:  0.01295
+Word:restaurant         
+TF-IDF:  0.00882
+Word:intends            
+TF-IDF:  0.00782
+Word:brunch             
+TF-IDF:  0.00774
+Word:bar                
+TF-IDF:  0.00764
+Top words in document: GarageDoorServices
+
+Word:tech               
+TF-IDF:  0.0645
+Word:garage             
+TF-IDF:  0.05084
+Word:warranty           
+TF-IDF:  0.04322
+Word:panels             
+TF-IDF:  0.02504
+Word:door               
+TF-IDF:  0.0224
+Word:keypad             
+TF-IDF:  0.0209
+Word:belligerent                
+TF-IDF:  0.01743
+Word:opener             
+TF-IDF:  0.01551
+Word:overhead           
+TF-IDF:  0.01399
+Word:pin                
+TF-IDF:  0.01399
+Top words in document: RealEstateServices
+
+Word:title              
+TF-IDF:  0.02786
+Word:dhi                
+TF-IDF:  0.02057
+Word:rocco              
+TF-IDF:  0.02057
+Word:kahan              
+TF-IDF:  0.02057
+Word:mingle             
+TF-IDF:  0.02027
+Word:portraits          
+TF-IDF:  0.0177
+Word:cpcc               
+TF-IDF:  0.01638
+Word:andrea             
+TF-IDF:  0.0151
+Word:seller             
+TF-IDF:  0.01391
+Word:instructors                
+TF-IDF:  0.01298
+Top words in document: Karaoke
+
+Word:cowboy             
+TF-IDF:  0.03242
+Word:bar                
+TF-IDF:  0.02899
+Word:bartender          
+TF-IDF:  0.02794
+Word:debbie             
+TF-IDF:  0.02678
+Word:dive               
+TF-IDF:  0.02349
+Word:drinks             
+TF-IDF:  0.01877
+Word:bartenders         
+TF-IDF:  0.01802
+Word:danny              
+TF-IDF:  0.01601
+Word:drink              
+TF-IDF:  0.01487
+Word:stole              
+TF-IDF:  0.01451
+Top words in document: SewingAlterations
+
+Word:alterations                
+TF-IDF:  0.02569
+Word:dress              
+TF-IDF:  0.02428
+Word:alteration         
+TF-IDF:  0.01508
+Word:danese             
+TF-IDF:  0.01211
+Word:tailor             
+TF-IDF:  0.01206
+Word:altered            
+TF-IDF:  0.00988
+Word:tailors            
+TF-IDF:  0.00925
+Word:pants              
+TF-IDF:  0.00921
+Word:hem                
+TF-IDF:  0.00912
+Word:clothes            
+TF-IDF:  0.00894
+Top words in document: IceCreamFrozenYogurt
+
+Word:cream              
+TF-IDF:  0.03434
+Word:ice                
+TF-IDF:  0.03316
+Word:custard            
+TF-IDF:  0.02609
+Word:culver             
+TF-IDF:  0.00861
+Word:blizzard           
+TF-IDF:  0.00792
+Word:sundae             
+TF-IDF:  0.00783
+Word:chocolate          
+TF-IDF:  0.00755
+Word:cone               
+TF-IDF:  0.00684
+Word:flavors            
+TF-IDF:  0.00674
+Word:snowstorm          
+TF-IDF:  0.00645
+Top words in document: Cuban
+
+Word:cuban              
+TF-IDF:  0.04986
+Word:havana             
+TF-IDF:  0.04293
+Word:food               
+TF-IDF:  0.02442
+Word:restaurant         
+TF-IDF:  0.01604
+Word:pollo              
+TF-IDF:  0.01565
+Word:cafe               
+TF-IDF:  0.0151
+Word:rice               
+TF-IDF:  0.01355
+Word:yjr24yy1k6bt2g9fx3_zpa             
+TF-IDF:  0.01319
+Word:cuba               
+TF-IDF:  0.01319
+Word:cubano             
+TF-IDF:  0.01247
+Top words in document: Nightlife
+
+Word:food               
+TF-IDF:  0.01248
+Word:bar                
+TF-IDF:  0.01037
+Word:beer               
+TF-IDF:  0.00679
+Word:drinks             
+TF-IDF:  0.00512
+Word:wine               
+TF-IDF:  0.00509
+Word:bruschetta         
+TF-IDF:  0.00504
+Word:restaurant         
+TF-IDF:  0.00435
+Word:menu               
+TF-IDF:  0.00406
+Word:wings              
+TF-IDF:  0.00406
+Word:fries              
+TF-IDF:  0.00405
+Top words in document: PoolCleaners
+
+Word:pool               
+TF-IDF:  0.09849
+Word:pump               
+TF-IDF:  0.03295
+Word:bubbles            
+TF-IDF:  0.02685
+Word:r          
+TF-IDF:  0.02542
+Word:checker            
+TF-IDF:  0.01527
+Word:everclear          
+TF-IDF:  0.01422
+Word:leslie             
+TF-IDF:  0.014
+Word:bestway            
+TF-IDF:  0.01321
+Word:shasta             
+TF-IDF:  0.01248
+Word:sand               
+TF-IDF:  0.01139
+Top words in document: CoffeeRoasteries
+
+Word:coffee             
+TF-IDF:  0.05335
+Word:study              
+TF-IDF:  0.01704
+Word:wifi               
+TF-IDF:  0.01599
+Word:walnut             
+TF-IDF:  0.01272
+Word:espresso           
+TF-IDF:  0.0123
+Word:starbucks          
+TF-IDF:  0.01221
+Word:pastries           
+TF-IDF:  0.01217
+Word:stickers           
+TF-IDF:  0.01192
+Word:iced               
+TF-IDF:  0.01134
+Word:roasters           
+TF-IDF:  0.01073
+Top words in document: PersonalInjuryLaw
+
+Word:sonja              
+TF-IDF:  0.03856
+Word:immigration                
+TF-IDF:  0.03513
+Word:legal              
+TF-IDF:  0.03489
+Word:attorney           
+TF-IDF:  0.03003
+Word:firm               
+TF-IDF:  0.02645
+Word:duckstein          
+TF-IDF:  0.0257
+Word:law                
+TF-IDF:  0.02251
+Word:lawyer             
+TF-IDF:  0.01921
+Word:google             
+TF-IDF:  0.01896
+Word:citizens           
+TF-IDF:  0.01813
+Top words in document: Bikes
+
+Word:bike               
+TF-IDF:  0.0918
+Word:bikes              
+TF-IDF:  0.02713
+Word:slippery           
+TF-IDF:  0.01104
+Word:cyclery            
+TF-IDF:  0.01064
+Word:shop               
+TF-IDF:  0.00998
+Word:pig                
+TF-IDF:  0.00913
+Word:cruiser            
+TF-IDF:  0.00867
+Word:barn               
+TF-IDF:  0.00695
+Word:tire               
+TF-IDF:  0.00587
+Word:sun                
+TF-IDF:  0.00558
+Top words in document: Buffets
+
+Word:indian             
+TF-IDF:  0.03414
+Word:naan               
+TF-IDF:  0.03163
+Word:buffet             
+TF-IDF:  0.02857
+Word:food               
+TF-IDF:  0.02323
+Word:tikka              
+TF-IDF:  0.01634
+Word:chicken            
+TF-IDF:  0.01502
+Word:masala             
+TF-IDF:  0.01398
+Word:lunch              
+TF-IDF:  0.0111
+Word:rice               
+TF-IDF:  0.00899
+Word:biriyani           
+TF-IDF:  0.00778
+Top words in document: CosmeticSurgeons
+
+Word:dr         
+TF-IDF:  0.04228
+Word:laris              
+TF-IDF:  0.0352
+Word:skin               
+TF-IDF:  0.02858
+Word:meger              
+TF-IDF:  0.02703
+Word:surgery            
+TF-IDF:  0.02187
+Word:voci               
+TF-IDF:  0.01474
+Word:results            
+TF-IDF:  0.01448
+Word:lykins             
+TF-IDF:  0.01173
+Word:procedure          
+TF-IDF:  0.0117
+Word:surgeon            
+TF-IDF:  0.011
+Top words in document: SecuritySystems
+
+Word:key                
+TF-IDF:  0.06002
+Word:keys               
+TF-IDF:  0.05031
+Word:locksmith          
+TF-IDF:  0.04299
+Word:lock               
+TF-IDF:  0.02782
+Word:ace                
+TF-IDF:  0.02488
+Word:card               
+TF-IDF:  0.02238
+Word:tape               
+TF-IDF:  0.02052
+Word:company            
+TF-IDF:  0.01999
+Word:safes              
+TF-IDF:  0.01947
+Word:engraved           
+TF-IDF:  0.01947
+Top words in document: CandyStores
+
+Word:candy              
+TF-IDF:  0.0403
+Word:chocolate          
+TF-IDF:  0.03013
+Word:chocolates         
+TF-IDF:  0.02475
+Word:candies            
+TF-IDF:  0.01853
+Word:truffle            
+TF-IDF:  0.0163
+Word:bordeaux           
+TF-IDF:  0.01547
+Word:peanut             
+TF-IDF:  0.01377
+Word:see                
+TF-IDF:  0.01086
+Word:samples            
+TF-IDF:  0.01037
+Word:butter             
+TF-IDF:  0.00893
+Top words in document: RehabilitationCenter
+
+Word:cnas               
+TF-IDF:  0.04866
+Word:unturned           
+TF-IDF:  0.04393
+Word:facility           
+TF-IDF:  0.03046
+Word:bedside            
+TF-IDF:  0.0298
+Word:therapy            
+TF-IDF:  0.0298
+Word:handicapped                
+TF-IDF:  0.02941
+Word:disabled           
+TF-IDF:  0.02903
+Word:regret             
+TF-IDF:  0.02902
+Word:sessions           
+TF-IDF:  0.02832
+Word:equipped           
+TF-IDF:  0.02766
+Top words in document: FlowersGifts
+
+Word:flowers            
+TF-IDF:  0.07466
+Word:arrangement                
+TF-IDF:  0.03751
+Word:florist            
+TF-IDF:  0.02851
+Word:bouquet            
+TF-IDF:  0.02103
+Word:flower             
+TF-IDF:  0.01633
+Word:arrangements               
+TF-IDF:  0.01582
+Word:floral             
+TF-IDF:  0.01285
+Word:beautiful          
+TF-IDF:  0.01118
+Word:wedding            
+TF-IDF:  0.01075
+Word:delivered          
+TF-IDF:  0.0104
+Top words in document: UniversityHousing
+
+Word:barnard            
+TF-IDF:  0.12514
+Word:'02                
+TF-IDF:  0.12514
+Word:dorm               
+TF-IDF:  0.11297
+Word:maid               
+TF-IDF:  0.0942
+Word:centrally          
+TF-IDF:  0.06953
+Word:cafeteria          
+TF-IDF:  0.06014
+Word:fourth             
+TF-IDF:  0.05912
+Word:hall               
+TF-IDF:  0.05545
+Word:sleep              
+TF-IDF:  0.05265
+Word:weekly             
+TF-IDF:  0.04469
+Top words in document: Preschools
+
+Word:teachers           
+TF-IDF:  0.02959
+Word:school             
+TF-IDF:  0.02686
+Word:janet              
+TF-IDF:  0.02071
+Word:montessori         
+TF-IDF:  0.0181
+Word:teacher            
+TF-IDF:  0.01766
+Word:children           
+TF-IDF:  0.01672
+Word:child              
+TF-IDF:  0.0145
+Word:kids               
+TF-IDF:  0.014
+Word:dawn               
+TF-IDF:  0.01262
+Word:daughter           
+TF-IDF:  0.01149
+Top words in document: MusicVenues
+
+Word:alice              
+TF-IDF:  0.00916
+Word:gardens            
+TF-IDF:  0.00797
+Word:food               
+TF-IDF:  0.00771
+Word:stage              
+TF-IDF:  0.00762
+Word:music              
+TF-IDF:  0.00754
+Word:desert             
+TF-IDF:  0.00737
+Word:garden             
+TF-IDF:  0.00704
+Word:botanical          
+TF-IDF:  0.00691
+Word:venue              
+TF-IDF:  0.00681
+Word:chihuly            
+TF-IDF:  0.0067
+Top words in document: WaterPurificationServices
+
+Word:shaved             
+TF-IDF:  0.05597
+Word:water              
+TF-IDF:  0.05312
+Word:culligan           
+TF-IDF:  0.04393
+Word:osmosis            
+TF-IDF:  0.04393
+Word:denise             
+TF-IDF:  0.03958
+Word:ice                
+TF-IDF:  0.03766
+Word:filters            
+TF-IDF:  0.03065
+Word:ourfi9c8s73i9whotapxdq             
+TF-IDF:  0.023
+Word:liters             
+TF-IDF:  0.02197
+Word:aspire             
+TF-IDF:  0.02197
+Top words in document: Optometrists
+
+Word:dr         
+TF-IDF:  0.03769
+Word:eye                
+TF-IDF:  0.02979
+Word:glasses            
+TF-IDF:  0.02524
+Word:mastores           
+TF-IDF:  0.02241
+Word:contacts           
+TF-IDF:  0.01968
+Word:frames             
+TF-IDF:  0.01968
+Word:exam               
+TF-IDF:  0.01633
+Word:doctor             
+TF-IDF:  0.01604
+Word:lenses             
+TF-IDF:  0.01218
+Word:moore              
+TF-IDF:  0.01157
+Top words in document: CollegesUniversities
+
+Word:campus             
+TF-IDF:  0.03008
+Word:cpcc               
+TF-IDF:  0.02864
+Word:a1cduvjsstyrmsuoaohytq             
+TF-IDF:  0.02378
+Word:programs           
+TF-IDF:  0.02242
+Word:duquesne           
+TF-IDF:  0.02147
+Word:education          
+TF-IDF:  0.02093
+Word:university         
+TF-IDF:  0.01959
+Word:engineering                
+TF-IDF:  0.01881
+Word:school             
+TF-IDF:  0.0184
+Word:student            
+TF-IDF:  0.01484
+Top words in document: DepartmentStores
+
+Word:target             
+TF-IDF:  0.02036
+Word:store              
+TF-IDF:  0.01624
+Word:ross               
+TF-IDF:  0.00971
+Word:shopping           
+TF-IDF:  0.00649
+Word:section            
+TF-IDF:  0.00598
+Word:marshalls          
+TF-IDF:  0.00595
+Word:deals              
+TF-IDF:  0.00593
+Word:department         
+TF-IDF:  0.00505
+Word:items              
+TF-IDF:  0.00482
+Word:targets            
+TF-IDF:  0.00461
+Top words in document: TeaRooms
+
+Word:tea                
+TF-IDF:  0.06056
+Word:scones             
+TF-IDF:  0.02349
+Word:negley             
+TF-IDF:  0.01723
+Word:fruit              
+TF-IDF:  0.01627
+Word:muffins            
+TF-IDF:  0.01542
+Word:teas               
+TF-IDF:  0.01436
+Word:bread              
+TF-IDF:  0.01426
+Word:toast              
+TF-IDF:  0.01232
+Word:breakfast          
+TF-IDF:  0.01195
+Word:cup                
+TF-IDF:  0.01073
+
