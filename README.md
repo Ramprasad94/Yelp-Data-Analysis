@@ -1,5 +1,5 @@
-# Search-Project
-Repository containing the code for search final project
+# Yelp-Data-Analysis
+Repository containing the code for performing data analysis on Yelp reviews and tips.
 
 ##Task 1 : Predicting categories of a business from review and tip text
 
